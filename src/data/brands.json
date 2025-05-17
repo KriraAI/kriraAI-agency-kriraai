@@ -1,0 +1,38 @@
+[
+  {
+    "id": 6,
+    "name": "Formbold",
+    "href": "#",
+    "image": "/images/brands/formbold.svg"
+  },
+  {
+    "id": 1,
+    "name": "UIdeck",
+    "href": "#",
+    "image": "/images/brands/uideck.svg"
+  },
+  {
+    "id": 2,
+    "name": "Tailgrids",
+    "href": "#",
+    "image": "/images/brands/tailgrids.svg"
+  },
+  {
+    "id": 3,
+    "name": "Lineicons",
+    "href": "#",
+    "image": "/images/brands/lineicons.svg"
+  },
+  {
+    "id": 4,
+    "name": "Tailadmin",
+    "href": "#",
+    "image": "/images/brands/tailadmin.svg"
+  },
+  {
+    "id": 5,
+    "name": "PlainAdmin",
+    "href": "#",
+    "image": "/images/brands/plainadmin.svg"
+  }
+]

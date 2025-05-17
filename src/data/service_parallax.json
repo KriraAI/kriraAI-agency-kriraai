@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "AI Services",
+    "link": "/ai-services",
+    "work": "category=AI+Services",
+    "items": [
+      "Data Science",
+      "Machine Learning",
+      "Deep Learning",
+      "Natural Language Processing",
+      "Computer Vision",
+      "Chatbot Development"
+    ],
+    "image": "/images/service/ai_services.svg"
+  },
+  {
+    "id": 2,
+    "title": "App Development",
+    "work": "category=Mobile+App+Development",
+    "link": "/mobile-app-development",
+    "items": [
+      "Android Development",
+      "iOS Development",
+      "Flutter Development",
+      "React Native Development"
+    ],
+    "image": "/images/service/mobile.svg"
+  },
+  {
+    "id": 3,
+    "title": "Web Development",
+    "work": "category=Web+Development",
+    "link": "/web-development",
+    "items": [
+      "React Development",
+      "Angular Development",
+      "Node Development",
+      "Vue Development",
+      "Python Development",
+      "WordPress Development"
+    ],
+    "image": "/images/service/web_dev.svg"
+  },
+  {
+    "id": 4,
+    "title": "Data & Analytics",
+    "work": "category=all",
+    "link": "/data-analytics",
+    "items": [
+      "Web Scraping",
+      "Database Management",
+      "Data Analysis"
+    ],
+    "image": "/images/service/data_analysis.svg"
+  },
+  {
+    "id": 5,
+    "title": "UI/UX Design",
+    "work": "category=UI/UX+Design",
+    "link": "/ui-ux-design",
+    "items": [
+      "UI Design",
+      "UX Strategy",
+      "Prototype",
+      "Wireframe Design"
+    ],
+    "image": "/images/service/uiux.svg"
+  },
+  {
+    "id": 6,
+    "title": "Branding",
+    "work": "category=all",
+    "link": "/branding",
+    "items": [
+      "Branding",
+      "Packaging Design",
+      "Motion Design",
+      "Social Media Design",
+      "Promotion Banner"
+    ],
+    "image": "/images/service/branding.svg"
+  },
+  {
+    "id": 7,
+    "title": "Custom Software",
+    "work": "category=Saas",
+    "link": "/custom-software",
+    "items": [
+      "Desktop App",
+      "Customer Relationship Management",
+      "Inventory management",
+      "Accounting",
+      "Enterprise Resource Planning",
+      "Human Resource Management",
+      "Business Intelligence",
+      "Supply Chain Management"
+    ],
+    "image": "/images/service/custom_dev.svg"
+  },
+  {
+    "id": 8,
+    "title": "Cloud Services",
+    "work": "category=all",
+    "link": "/cloud-services",
+    "items": [
+      "DevOps",
+      "MLOps"
+    ],
+    "image": "/images/service/cloud_service.svg"
+  },
+  {
+    "id": 9,
+    "title": "Tech Consultancy",
+    "work": "category=all",
+    "link": "/tech-consultancy",
+    "items": [
+      "Tech Consultancy"
+    ],
+    "image": "/images/service/tech_consult.svg"
+  }
+]

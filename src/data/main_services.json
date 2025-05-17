@@ -1,0 +1,1501 @@
+[
+  {
+    "id": "ai-services",
+    "category": "AI Services",
+    "title": "AI Services",
+    "subtitle": "Cutting-Edge AI Solutions",
+    "description": "Welcome to KriraAI, your ultimate destination for cutting-edge Artificial Intelligence (AI) services. At KriraAI, we harness the power of AI to drive innovation, solve complex challenges, and unlock new opportunities for businesses across industries. With our expertise in AI technologies and commitment to excellence, we offer comprehensive AI services that empower organizations to leverage data-driven insights, automate processes, and enhance decision-making.",
+    "image": "/images/service/ai_services.svg",
+    "serviceDescription": "At KriraAI, we take a strategic approach to AI services, focusing on understanding your organization's unique needs, objectives, and constraints. Whether you're looking to enhance customer experience, optimize operations, or drive business growth, we work closely with you to develop tailored AI solutions that address your specific challenges and deliver measurable results.",
+    "ourWork": "category=AI+Services",
+    "details": [
+      {
+        "title": "Machine Learning",
+        "link": "/machine-learning",
+        "description": "Predictive Analytics: Developing machine learning models to analyze historical data, identify patterns, and make accurate predictions about future outcomes."
+      },
+      {
+        "title": "Deep Learning",
+        "link": "/deep-learning",
+        "description": "Image Recognition: Training deep neural networks to recognize objects, faces, and patterns in images and videos for applications such as security, healthcare, and retail."
+      },
+      {
+        "title": "Natural Language Processing (NLP)",
+        "link": "/natural-language-processing",
+        "description": "Developing NLP models to understand and generate human-like text, enabling applications such as chatbots, sentiment analysis, and language translation."
+      },
+      {
+        "title": "Computer Vision",
+        "link": "/computer-vision",
+        "description": "Object Detection and Tracking: Building computer vision systems to detect, classify, and track objects in real-time video streams for applications such as surveillance and autonomous vehicles."
+      },
+      {
+        "title": "Chatbot Development",
+        "link": "/chatbot-development",
+        "description": "Conversational AI: Designing and implementing chatbots that simulate natural conversations and assist users with tasks such as customer support, information retrieval, and transaction processing."
+      },
+      {
+        "title": "Data Science",
+        "link": "/data-science",
+        "description": "Data Analysis: Applying statistical techniques and machine learning algorithms to analyze large datasets, extract insights, and drive data-driven decision-making."
+      }
+    ],
+    "projects": [
+      {
+        "title": "Project One",
+        "image": "/images/work/w1.png",
+        "link": "/"
+      },
+      {
+        "title": "Project Two",
+        "image": "/images/work/w2.png",
+        "link": "/"
+      }
+    ],
+    "otherServices": [
+      {
+        "name": "React",
+        "image":"/images/tech/t32.svg",
+        "category": "Development",
+        "link": "/react-development"
+      },
+      {
+        "name": "Node",
+        "image":"/images/tech/t35.svg",
+        "category": "Development",
+        "link": "/node-development"
+      },
+      {
+        "name": "Angular",
+        "image":"/images/tech/t33.svg",
+        "category": "Development",
+        "link": "/angular-development"
+      },
+      {
+        "name": "Vue",
+        "image":"/images/tech/t34.svg",
+        "category": "Development",
+        "link": "/vue-development"
+      },
+      {
+        "name": "Python",
+        "image":"/images/tech/t1.png",
+        "category": "Development",
+        "link": "/python-development"
+      },
+      {
+        "name": "Wordpress",
+        "image":"/images/tech/t38.png",
+        "category": "Development",
+        "link": "/wordpress-development"
+      }
+    ],
+    "ourProcess":  [
+      {
+        "title": "Workshop",
+        "description": "We start by understanding your goals and objectives. Through a series of workshops, we gather all the\n        necessary information to ensure we’re aligned with your vision.",
+        "badge": "Workshop",
+        "image": "/images/process/process1.svg"
+      },
+      {
+        "title": "Design",
+        "description": "Our design team creates wireframes and mockups to visualize the user experience and interface. We iterate\n        on the designs based on your feedback and requirements.",
+        "badge": "Design",
+        "image": "/images/process/process2.svg"
+      },
+      {
+        "title": "Development",
+        "description": "Our development team brings the designs to life, building the AI solution using the latest technologies and\n        best practices. We ensure the solution is scalable, secure, and performant.",
+        "badge": "Development",
+        "image": "/images/process/process3.svg"
+      },
+      {
+        "title": "Testing",
+        "description": "We rigorously test the AI solution to ensure it meets your requirements and performs as expected. We\n        conduct various tests, including functional, performance, and security testing.",
+        "badge": "Testing",
+        "image": "/images/process/process4.svg"
+      },
+      {
+        "title": "Deployment",
+        "description": "Once the AI solution is tested and approved, we deploy it to your production environment. We provide\n        support and maintenance to ensure the solution runs smoothly and efficiently.",
+        "badge": "Deployment",
+        "image": "/images/process/process5.svg"
+      }
+    ],
+    "whyContent": [
+    {
+      "title": "Expertise",
+      "description": "Our team comprises experienced AI professionals with expertise in machine learning, deep learning, computer vision, and natural language processing."
+    },
+    {
+      "title": "Customized Solutions",
+      "description": "We design AI solutions to meet your organization's specific needs and objectives, whether you're looking to automate processes, improve accuracy, or enhance user experience."
+    },
+    {
+      "title": "Scalability",
+      "description": "Our AI solutions are scalable to grow with your business, whether you're a startup experimenting with AI or an enterprise deploying AI at scale."
+    },
+    {
+      "title": "Innovation Focus",
+      "description": "We stay at the forefront of AI research and technology, continuously exploring new algorithms, frameworks, and methodologies to deliver cutting-edge solutions."
+    },
+    {
+      "title": "Ethical AI",
+      "description": "We prioritize ethical considerations in AI development, ensuring fairness, transparency, and accountability in our algorithms and models."
+    },
+    {
+      "title": "Collaborative Partnership",
+      "description": "We work closely with your team to understand your business goals, challenges, and constraints, and collaborate closely throughout the engagement to ensure success."
+    },
+    {
+      "title": "Results-Driven Approach",
+      "description": "We focus on delivering tangible results and measurable outcomes, whether it's increasing efficiency, reducing costs, or improving customer satisfaction."
+    }
+  ],
+    "faq": [
+      {
+        "question": "What AI services do you offer?",
+        "answer": "We offer a range of AI services including machine learning, deep learning, computer vision, chatbot development, and data science. Our solutions are tailored to meet your specific needs and drive measurable results."
+      },
+      {
+        "question": "How can AI benefit my business?",
+        "answer": "AI can help your business by automating processes, enhancing decision-making, improving customer experiences, and unlocking new opportunities. Our AI solutions are designed to deliver tangible results and drive business growth."
+      },
+      {
+        "question": "What is your approach to AI projects?",
+        "answer": "We take a strategic approach to AI projects, focusing on understanding your unique needs, objectives, and constraints. We work closely with you to develop tailored solutions that address your specific challenges and deliver measurable outcomes."
+      }
+    ],
+    "getInTouch": "Ready to harness the power of AI and transform your business? Contact us today to schedule a consultation and discover how KriraAI can help you leverage AI to drive innovation, automate processes, and unlock new opportunities."
+  },
+  {
+    "id": "branding",
+    "category": "Branding",
+    "title": "Brand Identity",
+    "subtitle": "Creating a Powerful and Cohesive Brand Identity",
+    "description": "Welcome to KriraAI, your trusted partner in creating a powerful and cohesive brand identity. At KriraAI, we understand that a strong brand identity is the cornerstone of any successful business. Our dedicated team of branding experts is passionate about helping you define and communicate your brand's unique personality, values, and vision. With a meticulous approach and a commitment to excellence, we craft compelling brand identities that resonate with your target audience and elevate your market presence.",
+    "image": "/images/service/branding.svg",
+    "serviceDescription": "At KriraAI, we follow a comprehensive and collaborative approach to brand identity development. From initial concept to final execution, we work closely with our clients to ensure that every element of their brand identity aligns with their business goals and speaks directly to their audience. Our expertise in the latest branding strategies and design principles allows us to deliver exceptional results that set your brand apart in a competitive marketplace.",
+    "ourWork": "category=all",
+    "details": [
+      {
+        "title": "Packaging Design",
+        "link": "/packaging-design",
+        "description": "Product Packaging, Label Design."
+      },
+      {
+        "title": "Motion Design",
+        "link": "/motion-design",
+        "description": "Explainer Videos, Animation."
+      },
+        {
+            "title": "Social Media Design",
+            "link": "/social-media-design",
+            "description": "Profile and Cover Design, Post Graphics."
+        },
+        {
+            "title": "Promotion Banner Design",
+            "link": "/promotion-banner",
+            "description": "Website Banners, Social Media Banners."
+        }
+    ],
+    "projects": [
+      {
+        "title": "Project One",
+        "image": "/images/work/brand_project1.png",
+        "link": "/"
+      },
+      {
+        "title": "Project Two",
+        "image": "/images/work/brand_project2.png",
+        "link": "/"
+      }
+    ],
+    "ourProcess":  [
+      {
+        "title": "Workshop",
+        "description": "We start by understanding your goals and objectives. Through a series of workshops, we gather all the\n        necessary information to ensure we’re aligned with your vision.",
+        "badge": "Workshop",
+        "image": "/images/process/process1.svg"
+      },
+      {
+        "title": "Design",
+        "description": "Our design team creates wireframes and mockups to visualize the user experience and interface. We iterate\n        on the designs based on your feedback and requirements.",
+        "badge": "Design",
+        "image": "/images/process/process2.svg"
+      },
+      {
+        "title": "Development",
+        "description": "Our development team brings the designs to life, building the AI solution using the latest technologies and\n        best practices. We ensure the solution is scalable, secure, and performant.",
+        "badge": "Development",
+        "image": "/images/process/process3.svg"
+      },
+      {
+        "title": "Testing",
+        "description": "We rigorously test the AI solution to ensure it meets your requirements and performs as expected. We\n        conduct various tests, including functional, performance, and security testing.",
+        "badge": "Testing",
+        "image": "/images/process/process4.svg"
+      },
+      {
+        "title": "Deployment",
+        "description": "Once the AI solution is tested and approved, we deploy it to your production environment. We provide\n        support and maintenance to ensure the solution runs smoothly and efficiently.",
+        "badge": "Deployment",
+        "image": "/images/process/process5.svg"
+      }
+    ],
+    "otherServices": [
+      {
+        "name": "React",
+        "image":"/images/tech/t32.svg",
+        "category": "Development",
+        "link": "/react-development"
+      },
+      {
+        "name": "Node",
+        "image":"/images/tech/t35.svg",
+        "category": "Development",
+        "link": "/node-development"
+      },
+      {
+        "name": "Angular",
+        "image":"/images/tech/t33.svg",
+        "category": "Development",
+        "link": "/angular-development"
+      },
+      {
+        "name": "Vue",
+        "image":"/images/tech/t34.svg",
+        "category": "Development",
+        "link": "/vue-development"
+      },
+      {
+        "name": "Python",
+        "image":"/images/tech/t1.png",
+        "category": "Development",
+        "link": "/python-development"
+      },
+      {
+        "name": "Wordpress",
+        "image":"/images/tech/t38.png",
+        "category": "Development",
+        "link": "/wordpress-development"
+      }
+    ],    "whyContent": [
+    {
+      "title": "Expert Branding Team",
+      "description": "Our team consists of experienced branding professionals with a deep understanding of brand strategy and design."
+    },
+    {
+      "title": "Tailored Solutions",
+      "description": "We provide customized branding solutions that meet your unique business needs and objectives."
+    },
+    {
+      "title": "Innovative Design",
+      "description": "We leverage the latest design trends and techniques to create visually stunning and impactful brand identities."
+    },
+    {
+      "title": "Proven Success",
+      "description": "Our portfolio includes successful branding projects across various industries, demonstrating our expertise."
+    },
+    {
+      "title": "Client-Centric Approach",
+      "description": "We prioritize your goals and vision, ensuring that our solutions align with your business objectives."
+    },
+    {
+      "title": "Comprehensive Support",
+      "description": "From initial consultation to final execution, we offer full support throughout the branding process."
+    },
+    {
+      "title": "Attention to Detail",
+      "description": "We pay meticulous attention to every detail, ensuring that your brand identity is cohesive and compelling."
+    },
+    {
+      "title": "Market Relevance",
+      "description": "We ensure that your brand identity is relevant and resonates with your target audience."
+    },
+    {
+      "title": "Consistent Communication",
+      "description": "We maintain clear and transparent communication throughout the project to keep you informed and involved."
+    },
+    {
+      "title": "SEO-Friendly Content",
+      "description": "Our branding strategies include SEO best practices to enhance your online visibility and reach."
+    }
+  ],
+    "faq": [
+      {
+        "question": "Why choose KriraAI for brand identity development?",
+        "answer": "Choosing KriraAI means partnering with a leader in branding innovation. Our commitment to excellence and focus on delivering bespoke, high-quality solutions ensures that your business benefits from a strong and memorable brand identity. Trust KriraAI to be your definitive partner for all your branding needs, and experience the difference that expert-driven, custom-tailored brand solutions can make."
+      },
+      {
+        "question": "How do KriraAI's branding services transform businesses?",
+        "answer": "By selecting KriraAI, you are ensuring that your brand identity projects are handled by the best in the industry. Our dedication to providing unparalleled service and innovative solutions makes us the ultimate choice for businesses looking to elevate their brand presence. Trust KriraAI for your branding needs and see your business transform through strategic and impactful brand identity development."
+      }
+    ],
+    "getInTouch": {
+      "content": "Ready to build a strong and memorable brand identity? Contact us today to discuss your branding needs and discover how KriraAI can help you create a powerful brand that stands out and drives success."
+    }
+  },
+  {
+    "id": "cloud-services",
+    "category": "Cloud Services",
+    "title": "Cloud Services",
+    "subtitle": "Cutting-Edge Cloud Solutions",
+    "description": "Welcome to KriraAI, your trusted partner for cutting-edge Cloud Services. In today's digital era, leveraging cloud technology is essential for businesses to drive innovation, agility, and scalability while reducing operational costs and complexity. At KriraAI, we specialize in providing comprehensive cloud solutions that empower businesses to harness the full potential of cloud computing and drive digital transformation.",
+    "image": "/images/service/cloud_service.svg",
+    "serviceDescription": "At KriraAI, we follow a strategic approach to cloud services, combining technical expertise, industry best practices, and a deep understanding of our clients' business needs to deliver tailored cloud solutions that align with their goals and objectives. Whether you're looking to migrate to the cloud, optimize your existing cloud infrastructure, or develop cloud-native applications, we have the expertise and experience to help you succeed in the cloud.",
+    "ourWork": "category=all",
+    "details": [
+      {
+        "title": "DevOps",
+        "link": "/devops",
+        "description": "Implementing DevOps practices and tools to streamline and automate the software development lifecycle, enabling faster delivery, higher quality, and greater collaboration between development and operations teams."
+      },
+      {
+        "title": "MLOps",
+        "link": "/mlops",
+        "description": "Integrating machine learning (ML) workflows with DevOps processes to operationalize ML models, automate model training and deployment, and ensure continuous monitoring and optimization for improved ML model performance and efficiency."
+      }
+    ],
+    "projects": [
+      {
+        "title": "Project One",
+        "image": "/images/work/w1.png",
+        "link": "/"
+      },
+      {
+        "title": "Project Two",
+        "image": "/images/work/w2.png",
+        "link": "/"
+      }
+    ],
+    "ourProcess":  [
+      {
+        "title": "Workshop",
+        "description": "We start by understanding your goals and objectives. Through a series of workshops, we gather all the\n        necessary information to ensure we’re aligned with your vision.",
+        "badge": "Workshop",
+        "image": "/images/process/process1.svg"
+      },
+      {
+        "title": "Design",
+        "description": "Our design team creates wireframes and mockups to visualize the user experience and interface. We iterate\n        on the designs based on your feedback and requirements.",
+        "badge": "Design",
+        "image": "/images/process/process2.svg"
+      },
+      {
+        "title": "Development",
+        "description": "Our development team brings the designs to life, building the AI solution using the latest technologies and\n        best practices. We ensure the solution is scalable, secure, and performant.",
+        "badge": "Development",
+        "image": "/images/process/process3.svg"
+      },
+      {
+        "title": "Testing",
+        "description": "We rigorously test the AI solution to ensure it meets your requirements and performs as expected. We\n        conduct various tests, including functional, performance, and security testing.",
+        "badge": "Testing",
+        "image": "/images/process/process4.svg"
+      },
+      {
+        "title": "Deployment",
+        "description": "Once the AI solution is tested and approved, we deploy it to your production environment. We provide\n        support and maintenance to ensure the solution runs smoothly and efficiently.",
+        "badge": "Deployment",
+        "image": "/images/process/process5.svg"
+      }
+    ],
+    "otherServices": [
+      {
+        "name": "React",
+        "image":"/images/tech/t32.svg",
+        "category": "Development",
+        "link": "/react-development"
+      },
+      {
+        "name": "Node",
+        "image":"/images/tech/t35.svg",
+        "category": "Development",
+        "link": "/node-development"
+      },
+      {
+        "name": "Angular",
+        "image":"/images/tech/t33.svg",
+        "category": "Development",
+        "link": "/angular-development"
+      },
+      {
+        "name": "Vue",
+        "image":"/images/tech/t34.svg",
+        "category": "Development",
+        "link": "/vue-development"
+      },
+      {
+        "name": "Python",
+        "image":"/images/tech/t1.png",
+        "category": "Development",
+        "link": "/python-development"
+      },
+      {
+        "name": "Wordpress",
+        "image":"/images/tech/t38.png",
+        "category": "Development",
+        "link": "/wordpress-development"
+      }
+    ],    "whyContent": [
+    {
+      "title": "Expertise",
+      "description": "Our team comprises experienced cloud engineers, architects, and developers with expertise in leading cloud platforms and technologies, including AWS, Azure, Google Cloud Platform, and more."
+    },
+    {
+      "title": "Comprehensive Solutions",
+      "description": "We offer a wide range of cloud services, including cloud migration, infrastructure optimization, cloud-native application development, and more, to meet all your cloud computing needs under one roof."
+    },
+    {
+      "title": "Strategic Partnerships",
+      "description": "We partner with leading cloud providers and technology vendors to stay at the forefront of cloud innovation and deliver best-in-class solutions that drive business value and competitive advantage."
+    },
+    {
+      "title": "Tailored Approach",
+      "description": "We take a customized approach to cloud services, working closely with you to understand your unique business requirements, challenges, and goals and develop tailored solutions that address your specific needs and objectives."
+    },
+    {
+      "title": "Proven Track Record",
+      "description": "With a track record of successful cloud projects across various industries and clients, we demonstrate our ability to deliver high-quality cloud solutions that drive business growth and success."
+    },
+    {
+      "title": "Scalability",
+      "description": "Our cloud solutions are designed to scale with your business, allowing you to easily adapt to changing business needs and requirements without compromising performance, reliability, or security."
+    },
+    {
+      "title": "Security",
+      "description": "We prioritize the security and compliance of your cloud infrastructure and applications, implementing robust security measures, encryption, access controls, and monitoring to protect your data and assets from unauthorized access, breaches, and cyber threats."
+    },
+    {
+      "title": "Cost-Effectiveness",
+      "description": "We offer competitive pricing for our cloud services, providing excellent value for your investment and helping you optimize your cloud spending to maximize ROI and cost savings."
+    },
+    {
+      "title": "Continuous Support",
+      "description": "From planning and deployment to ongoing management and optimization, we provide comprehensive support and maintenance services to ensure the ongoing success and performance of your cloud environment."
+    }
+  ],
+    "faq": [
+      {
+        "question": "What cloud services do you offer?",
+        "answer": "We offer a range of cloud services including cloud migration, infrastructure optimization, cloud-native application development, DevOps, and MLOps. Our solutions are tailored to meet your specific needs and drive measurable results."
+      },
+      {
+        "question": "How can cloud services benefit my business?",
+        "answer": "Cloud services can help your business by driving innovation, improving agility, and scalability while reducing operational costs and complexity. Our cloud solutions are designed to deliver tangible results and drive business growth."
+      },
+      {
+        "question": "What is your approach to cloud projects?",
+        "answer": "We take a strategic approach to cloud projects, combining technical expertise, industry best practices, and a deep understanding of your business needs. We work closely with you to develop tailored solutions that address your specific challenges and deliver measurable outcomes."
+      }
+    ],
+    "getInTouch": "Ready to harness the power of cloud computing and transform your business? Contact us today to schedule a consultation and discover how KriraAI can help you leverage cloud technology to drive innovation, automate processes, and unlock new opportunities."
+  },
+  {
+    "id": "data-analytics",
+    "category": "Data & Analytics",
+    "title": "Data & Analytics",
+    "subtitle": "Cutting-Edge Data & Analytics Solutions",
+    "description": "Welcome to KriraAI, your trusted partner for cutting-edge Data & Analytics solutions. In today's data-driven world, businesses have access to vast amounts of data that can provide valuable insights and drive informed decision-making. At KriraAI, we specialize in helping businesses unlock the full potential of their data through advanced analytics, machine learning, and artificial intelligence.",
+    "image": "/images/service/data_analysis.svg",
+    "serviceDescription": "At KriraAI, we take a comprehensive approach to Data & Analytics, combining technical expertise, domain knowledge, and industry best practices to deliver tailored solutions that address our clients' specific business challenges and opportunities. Whether you're looking to harness the power of your data for predictive analytics, optimization, or business intelligence, we have the expertise and experience to help you succeed.",
+    "ourWork": "category=all",
+    "details": [
+      {
+        "title": "Web Scraping",
+        "link": "/web-scraping",
+        "description": "Extracting data from websites and online sources to gather valuable insights, monitor competitors, and inform business decisions."
+      },
+      {
+        "title": "Database Management",
+        "link": "/database-management",
+        "description": "Designing, implementing, and managing databases to store, organize, and secure your data efficiently and effectively."
+      },
+      {
+        "title": "Data Analysis",
+        "link": "/data-analysis",
+        "description": "Applying statistical analysis, data mining, and visualization techniques to uncover patterns, trends, and correlations in your data and derive actionable insights."
+      }
+    ],
+    "projects": [
+      {
+        "title": "Project One",
+        "image": "/images/work/w1.png",
+        "link": "/"
+      },
+      {
+        "title": "Project Two",
+        "image": "/images/work/w2.png",
+        "link": "/"
+      }
+    ],
+    "ourProcess":  [
+      {
+        "title": "Workshop",
+        "description": "We start by understanding your goals and objectives. Through a series of workshops, we gather all the\n        necessary information to ensure we’re aligned with your vision.",
+        "badge": "Workshop",
+        "image": "/images/process/process1.svg"
+      },
+      {
+        "title": "Design",
+        "description": "Our design team creates wireframes and mockups to visualize the user experience and interface. We iterate\n        on the designs based on your feedback and requirements.",
+        "badge": "Design",
+        "image": "/images/process/process2.svg"
+      },
+      {
+        "title": "Development",
+        "description": "Our development team brings the designs to life, building the AI solution using the latest technologies and\n        best practices. We ensure the solution is scalable, secure, and performant.",
+        "badge": "Development",
+        "image": "/images/process/process3.svg"
+      },
+      {
+        "title": "Testing",
+        "description": "We rigorously test the AI solution to ensure it meets your requirements and performs as expected. We\n        conduct various tests, including functional, performance, and security testing.",
+        "badge": "Testing",
+        "image": "/images/process/process4.svg"
+      },
+      {
+        "title": "Deployment",
+        "description": "Once the AI solution is tested and approved, we deploy it to your production environment. We provide\n        support and maintenance to ensure the solution runs smoothly and efficiently.",
+        "badge": "Deployment",
+        "image": "/images/process/process5.svg"
+      }
+    ],
+    "otherServices": [
+      {
+        "name": "React",
+        "image":"/images/tech/t32.svg",
+        "category": "Development",
+        "link": "/react-development"
+      },
+      {
+        "name": "Node",
+        "image":"/images/tech/t35.svg",
+        "category": "Development",
+        "link": "/node-development"
+      },
+      {
+        "name": "Angular",
+        "image":"/images/tech/t33.svg",
+        "category": "Development",
+        "link": "/angular-development"
+      },
+      {
+        "name": "Vue",
+        "image":"/images/tech/t34.svg",
+        "category": "Development",
+        "link": "/vue-development"
+      },
+      {
+        "name": "Python",
+        "image":"/images/tech/t1.png",
+        "category": "Development",
+        "link": "/python-development"
+      },
+      {
+        "name": "Wordpress",
+        "image":"/images/tech/t38.png",
+        "category": "Development",
+        "link": "/wordpress-development"
+      }
+    ],    "whyContent": [
+    {
+      "title": "Expertise",
+      "description": "Our team comprises experienced data scientists, analysts, and engineers with expertise in a wide range of Data & Analytics technologies and methodologies."
+    },
+    {
+      "title": "Comprehensive Solutions",
+      "description": "We offer end-to-end Data & Analytics solutions, from data collection and storage to analysis, modeling, and visualization, to meet all your data needs under one roof."
+    },
+    {
+      "title": "Customization",
+      "description": "We take a customized approach to Data & Analytics, working closely with you to understand your unique business requirements, goals, and challenges and develop tailored solutions that address your specific needs and objectives."
+    },
+    {
+      "title": "Advanced Technologies",
+      "description": "We leverage advanced technologies such as machine learning, artificial intelligence, and big data analytics to unlock the full potential of your data and drive actionable insights and predictions."
+    },
+    {
+      "title": "Proven Track Record",
+      "description": "With a track record of successful Data & Analytics projects across various industries and clients, we demonstrate our ability to deliver high-quality solutions that drive business growth and success."
+    },
+    {
+      "title": "Scalability",
+      "description": "Our Data & Analytics solutions are designed to scale with your business, allowing you to easily adapt to changing data volumes, complexity, and requirements without compromising performance or reliability."
+    },
+    {
+      "title": "Data Security",
+      "description": "We prioritize the security and privacy of your data, implementing robust security measures, encryption, access controls, and monitoring to protect your data from unauthorized access, breaches, and cyber threats."
+    },
+    {
+      "title": "Continuous Improvement",
+      "description": "We are committed to continuous improvement and innovation in Data & Analytics, staying at the forefront of industry trends, technologies, and best practices to ensure that you receive the most advanced and effective solutions."
+    }
+  ],
+    "faq": [
+      {
+        "question": "What data and analytics services do you offer?",
+        "answer": "We offer a range of Data & Analytics services including web scraping, database management, and data analysis. Our solutions are tailored to meet your specific needs and drive measurable results."
+      },
+      {
+        "question": "How can data and analytics benefit my business?",
+        "answer": "Data & Analytics can help your business by providing valuable insights, driving informed decision-making, and unlocking new opportunities. Our solutions are designed to deliver tangible results and drive business growth."
+      },
+      {
+        "question": "What is your approach to data and analytics projects?",
+        "answer": "We take a comprehensive approach to Data & Analytics, combining technical expertise, domain knowledge, and industry best practices. We work closely with you to develop tailored solutions that address your specific challenges and opportunities."
+      }
+    ],
+    "getInTouch": "Ready to harness the power of data and transform your business? Contact us today to schedule a consultation and discover how KriraAI can help you leverage Data & Analytics to drive innovation, optimize processes, and unlock new opportunities."
+  },
+  {
+    "id": "mobile-app-development",
+    "category": "Mobile App Development",
+    "title": "Mobile App Development",
+    "subtitle": "Expert Mobile App Development Services",
+    "description": "Welcome to KriraAI, your premier destination for expert Mobile App Development services. In today's digital age, having a mobile presence is essential for reaching and engaging your target audience effectively. At KriraAI, we specialize in crafting innovative, user-centric mobile applications that empower businesses to thrive in the mobile-first world.",
+    "image": "/images/service/mobile.svg",
+    "serviceDescription": "At KriraAI, we adopt a comprehensive approach to mobile app development, ensuring that each app is meticulously designed and developed to deliver exceptional user experiences and drive business success. From concept to deployment, we collaborate closely with our clients to understand their unique requirements, goals, and target audience, leveraging the latest technologies and industry best practices to create high-performance, feature-rich mobile applications.",
+    "ourWork": "category=Mobile+App+Development",
+    "details": [
+      {
+        "title": "Android Development",
+        "link": "/android-development",
+        "description": "Crafting native Android applications tailored to the specific requirements and preferences of the Android platform, ensuring optimal performance, compatibility, and user experience."
+      },
+      {
+        "title": "iOS Development",
+        "link": "/ios-development",
+        "description": "Building elegant and intuitive native iOS applications for iPhones, iPads, and other Apple devices, leveraging the latest iOS SDKs and design guidelines to deliver seamless user experiences."
+      },
+      {
+        "title": "Flutter Development",
+        "link": "/flutter-development",
+        "description": "Developing cross-platform mobile applications using Google's Flutter framework, allowing for rapid development, code reusability, and native performance across multiple platforms."
+      },
+      {
+        "title": "React Native Development",
+        "link": "/react-native-development",
+        "description": "Harnessing the power of Facebook's React Native framework to build cross-platform mobile apps with a single codebase, combining the efficiency of web development with the performance of native apps."
+      }
+    ],
+    "projects": [
+      {
+        "title": "Project One",
+        "image": "/images/work/w1.png",
+        "link": "/"
+      },
+      {
+        "title": "Project Two",
+        "image": "/images/work/w2.png",
+        "link": "/"
+      }
+    ],
+    "ourProcess":  [
+      {
+        "title": "Workshop",
+        "description": "We start by understanding your goals and objectives. Through a series of workshops, we gather all the\n        necessary information to ensure we’re aligned with your vision.",
+        "badge": "Workshop",
+        "image": "/images/process/process1.svg"
+      },
+      {
+        "title": "Design",
+        "description": "Our design team creates wireframes and mockups to visualize the user experience and interface. We iterate\n        on the designs based on your feedback and requirements.",
+        "badge": "Design",
+        "image": "/images/process/process2.svg"
+      },
+      {
+        "title": "Development",
+        "description": "Our development team brings the designs to life, building the AI solution using the latest technologies and\n        best practices. We ensure the solution is scalable, secure, and performant.",
+        "badge": "Development",
+        "image": "/images/process/process3.svg"
+      },
+      {
+        "title": "Testing",
+        "description": "We rigorously test the AI solution to ensure it meets your requirements and performs as expected. We\n        conduct various tests, including functional, performance, and security testing.",
+        "badge": "Testing",
+        "image": "/images/process/process4.svg"
+      },
+      {
+        "title": "Deployment",
+        "description": "Once the AI solution is tested and approved, we deploy it to your production environment. We provide\n        support and maintenance to ensure the solution runs smoothly and efficiently.",
+        "badge": "Deployment",
+        "image": "/images/process/process5.svg"
+      }
+    ],
+    "otherServices": [
+      {
+        "name": "React",
+        "image":"/images/tech/t32.svg",
+        "category": "Development",
+        "link": "/react-development"
+      },
+      {
+        "name": "Node",
+        "image":"/images/tech/t35.svg",
+        "category": "Development",
+        "link": "/node-development"
+      },
+      {
+        "name": "Angular",
+        "image":"/images/tech/t33.svg",
+        "category": "Development",
+        "link": "/angular-development"
+      },
+      {
+        "name": "Vue",
+        "image":"/images/tech/t34.svg",
+        "category": "Development",
+        "link": "/vue-development"
+      },
+      {
+        "name": "Python",
+        "image":"/images/tech/t1.png",
+        "category": "Development",
+        "link": "/python-development"
+      },
+      {
+        "name": "Wordpress",
+        "image":"/images/tech/t38.png",
+        "category": "Development",
+        "link": "/wordpress-development"
+      }
+    ],    "whyContent": [
+    {
+      "title": "Expert Developers",
+      "description": "Our team comprises experienced mobile app developers with a deep understanding of iOS, Android, Flutter, and React Native development, ensuring the highest quality standards and best practices."
+    },
+    {
+      "title": "Customized Solutions",
+      "description": "We tailor our mobile apps to your specific requirements, preferences, and business objectives, ensuring they align with your brand identity and user expectations."
+    },
+    {
+      "title": "Innovation",
+      "description": "We leverage the latest technologies, tools, and methodologies to develop innovative mobile solutions that stand out in the crowded app marketplace and drive user engagement and retention."
+    },
+    {
+      "title": "Proven Success",
+      "description": "With a track record of successful mobile app projects across various industries and use cases, we demonstrate our ability to deliver tangible business results and exceed client expectations."
+    },
+    {
+      "title": "User-Centric Design",
+      "description": "We prioritize user experience in our mobile apps, ensuring they are intuitive, visually appealing, and easy to navigate, resulting in higher user satisfaction and retention rates."
+    },
+    {
+      "title": "Continuous Support",
+      "description": "From concept to deployment and beyond, we provide comprehensive support and maintenance services to ensure the ongoing success and performance of your mobile applications."
+    },
+    {
+      "title": "Scalability",
+      "description": "Our mobile apps are designed to scale with your business, accommodating growth and evolving requirements without compromising performance, security, or reliability."
+    },
+    {
+      "title": "Security",
+      "description": "We implement robust security measures and best practices to protect your mobile apps and users' data from unauthorized access, breaches, and cyber threats, ensuring the confidentiality, integrity, and availability of your digital assets."
+    },
+    {
+      "title": "Cost-Effectiveness",
+      "description": "We offer competitive pricing for our mobile app development services, delivering excellent value for your investment and maximizing your return on investment (ROI)."
+    }
+  ],
+    "faq": [
+      {
+        "question": "What mobile app development services do you offer?",
+        "answer": "We offer a range of mobile app development services including Android development, iOS development, Flutter development, and React Native development. Our solutions are tailored to meet your specific needs and drive measurable results."
+      },
+      {
+        "question": "How can mobile app development benefit my business?",
+        "answer": "Mobile app development can help your business by reaching and engaging your target audience effectively, driving user engagement and retention, and delivering tangible business results. Our solutions are designed to align with your business goals and exceed user expectations."
+      },
+      {
+        "question": "What is your approach to mobile app development projects?",
+        "answer": "We adopt a comprehensive approach to mobile app development, collaborating closely with you to understand your unique requirements, goals, and target audience. We leverage the latest technologies and industry best practices to create high-performance, feature-rich mobile applications that drive business success."
+      }
+    ],
+    "getInTouch": "Ready to transform your business with innovative mobile applications? Contact us today to schedule a consultation and discover how KriraAI can help you develop user-centric mobile apps that drive engagement and business growth."
+  },
+  {
+    "id": "ui-ux-design",
+    "category": "UI/UX Design",
+    "title": "UI/UX Design",
+    "subtitle": "Exceptional UI/UX Design Solutions",
+    "description": "Welcome to KriraAI, your trusted partner for exceptional UI/UX Design solutions. In today's digital landscape, user experience is paramount to the success of any digital product or service. At KriraAI, we specialize in creating intuitive, engaging, and visually appealing user interfaces (UI) and user experiences (UX) that delight users, drive engagement, and deliver results.",
+    "image": "/images/service/uiux.svg",
+    "serviceDescription": "At KriraAI, we take a user-centric approach to UI/UX design, placing the needs, preferences, and behaviors of users at the forefront of our design process. Our team of talented designers and UX specialists combine creativity, empathy, and technical expertise to craft seamless and immersive digital experiences that resonate with users and exceed their expectations.",
+    "ourWork": "category=UI/UX+Design",
+    "details": [
+      {
+        "title": "UI Design",
+        "link": "/ui-design",
+        "description": "Creating visually stunning and intuitive user interfaces (UI) that captivate users and communicate your brand identity effectively, ensuring consistency, clarity, and ease of use across all digital touchpoints."
+      },
+      {
+        "title": "UX Strategy",
+        "link": "/ux-strategy",
+        "description": "Developing comprehensive UX strategies that align with your business goals and user needs, including user research, persona development, user journey mapping, and usability testing, to inform and guide the design process."
+      },
+      {
+        "title": "Prototype",
+        "link": "/prototype",
+        "description": "Building interactive prototypes and wireframes to visualize and validate design concepts, functionalities, and user interactions, facilitating collaboration, feedback, and iteration throughout the design process."
+      },
+      {
+        "title": "Wireframe Design",
+        "link": "/wireframe-design",
+        "description": "Designing low-fidelity wireframes that outline the structure, layout, and navigation of digital interfaces, providing a blueprint for the UI design and development process and ensuring a seamless user experience."
+      }
+    ],
+    "projects": [
+      {
+        "title": "Project One",
+        "image": "/images/work/w1.png",
+        "link": "/"
+      },
+      {
+        "title": "Project Two",
+        "image": "/images/work/w2.png",
+        "link": "/"
+      }
+    ],
+    "ourProcess":  [
+      {
+        "title": "Workshop",
+        "description": "We start by understanding your goals and objectives. Through a series of workshops, we gather all the\n        necessary information to ensure we’re aligned with your vision.",
+        "badge": "Workshop",
+        "image": "/images/process/process1.svg"
+      },
+      {
+        "title": "Design",
+        "description": "Our design team creates wireframes and mockups to visualize the user experience and interface. We iterate\n        on the designs based on your feedback and requirements.",
+        "badge": "Design",
+        "image": "/images/process/process2.svg"
+      },
+      {
+        "title": "Development",
+        "description": "Our development team brings the designs to life, building the AI solution using the latest technologies and\n        best practices. We ensure the solution is scalable, secure, and performant.",
+        "badge": "Development",
+        "image": "/images/process/process3.svg"
+      },
+      {
+        "title": "Testing",
+        "description": "We rigorously test the AI solution to ensure it meets your requirements and performs as expected. We\n        conduct various tests, including functional, performance, and security testing.",
+        "badge": "Testing",
+        "image": "/images/process/process4.svg"
+      },
+      {
+        "title": "Deployment",
+        "description": "Once the AI solution is tested and approved, we deploy it to your production environment. We provide\n        support and maintenance to ensure the solution runs smoothly and efficiently.",
+        "badge": "Deployment",
+        "image": "/images/process/process5.svg"
+      }
+    ],
+    "otherServices": [
+      {
+        "name": "React",
+        "image":"/images/tech/t32.svg",
+        "category": "Development",
+        "link": "/react-development"
+      },
+      {
+        "name": "Node",
+        "image":"/images/tech/t35.svg",
+        "category": "Development",
+        "link": "/node-development"
+      },
+      {
+        "name": "Angular",
+        "image":"/images/tech/t33.svg",
+        "category": "Development",
+        "link": "/angular-development"
+      },
+      {
+        "name": "Vue",
+        "image":"/images/tech/t34.svg",
+        "category": "Development",
+        "link": "/vue-development"
+      },
+      {
+        "name": "Python",
+        "image":"/images/tech/t1.png",
+        "category": "Development",
+        "link": "/python-development"
+      },
+      {
+        "name": "Wordpress",
+        "image":"/images/tech/t38.png",
+        "category": "Development",
+        "link": "/wordpress-development"
+      }
+    ],    "whyContent": [
+    {
+      "title": "User-Centric Approach",
+      "description": "We prioritize user experience in our UI/UX design process, ensuring that every design decision is driven by user needs, preferences, and behaviors, resulting in intuitive, engaging, and user-friendly digital experiences."
+    },
+    {
+      "title": "Creative Excellence",
+      "description": "Our team of talented designers brings creativity, innovation, and attention to detail to every UI/UX design project, delivering visually stunning and memorable digital experiences that set your brand apart from the competition."
+    },
+    {
+      "title": "Comprehensive Solutions",
+      "description": "We offer end-to-end UI/UX design services, from initial concept and prototyping to final design and implementation, ensuring a seamless and cohesive design process and delivering exceptional results that meet and exceed your expectations."
+    },
+    {
+      "title": "Collaborative Partnership",
+      "description": "We believe in close collaboration and communication with our clients throughout the UI/UX design process, fostering a transparent and iterative approach that ensures alignment with your vision, goals, and feedback."
+    },
+    {
+      "title": "Proven Track Record",
+      "description": "With a portfolio of successful UI/UX design projects across various industries and clients, we demonstrate our ability to deliver high-quality design solutions that drive user engagement, satisfaction, and business growth."
+    },
+    {
+      "title": "Scalability",
+      "description": "Our UI/UX design solutions are designed to scale with your business, accommodating growth and evolving requirements without compromising design quality, consistency, or user experience."
+    },
+    {
+      "title": "Technological Expertise",
+      "description": "We stay at the forefront of UI/UX design trends, tools, and technologies, leveraging the latest design tools and methodologies to deliver innovative and effective design solutions that meet the demands of today's digital landscape."
+    },
+    {
+      "title": "Client Satisfaction",
+      "description": "We are committed to client satisfaction and excellence in everything we do, from the quality of our design work to the level of service and support we provide, ensuring that you receive the best possible UI/UX design solutions and experience."
+    }
+  ],
+    "faq": [
+      {
+        "question": "What UI/UX design services do you offer?",
+        "answer": "We offer a range of UI/UX design services including UI design, UX strategy, prototyping, and wireframe design. Our solutions are tailored to meet your specific needs and drive measurable results."
+      },
+      {
+        "question": "How can UI/UX design benefit my business?",
+        "answer": "UI/UX design can help your business by creating intuitive, engaging, and visually appealing digital experiences that delight users, drive engagement, and deliver results. Our solutions are designed to align with your business goals and exceed user expectations."
+      },
+      {
+        "question": "What is your approach to UI/UX design projects?",
+        "answer": "We take a user-centric approach to UI/UX design, placing the needs, preferences, and behaviors of users at the forefront of our design process. We collaborate closely with you throughout the design process to deliver solutions that meet and exceed your expectations."
+      }
+    ],
+    "getInTouch": "Ready to transform your digital presence with exceptional UI/UX design solutions? Contact us today to schedule a consultation and discover how KriraAI can help you create user-centric digital experiences that drive engagement and business success."
+  },
+  {
+    "id": "web-development",
+    "category": "Web Development",
+    "title": "Web Development",
+    "subtitle": "Expert Web Development Services",
+    "description": "Welcome to KriraAI, your trusted partner for expert Web Development services. In today's digital landscape, a strong online presence is crucial for businesses to engage with their audience, showcase their products or services, and drive growth. At KriraAI, we specialize in crafting custom web solutions that empower businesses to succeed in the competitive online marketplace.",
+    "image": "/images/service/web_dev.svg",
+    "serviceDescription": "At KriraAI, we follow a meticulous approach to web development, combining creativity, technical expertise, and industry best practices to deliver high-quality, scalable, and user-friendly websites. From concept to deployment, we collaborate closely with our clients to understand their unique business goals, target audience, and brand identity, ensuring that each website we create is tailored to their specific requirements and objectives.",
+    "ourWork": "category=Web+Development",
+    "details": [
+      {
+        "title": "React.js Development",
+        "link": "/react-development",
+        "description": "Leveraging the power of React.js, we build interactive and dynamic web applications with fast rendering and seamless user experiences, catering to modern web development needs."
+      },
+      {
+        "title": "Angular.js Development",
+        "link": "/angular-development",
+        "description": "Developing robust and scalable web applications using Angular.js framework, ensuring maintainability, flexibility, and performance for complex enterprise solutions."
+      },
+      {
+        "title": "Node.js Development",
+        "link": "/node-development",
+        "description": "Creating lightweight and efficient web servers and backend APIs using Node.js runtime environment, facilitating real-time data exchange, scalability, and versatility for web applications."
+      },
+      {
+        "title": "Vue.js Development",
+        "link": "/vue-development",
+        "description": "Building progressive and reactive web applications with Vue.js framework, offering simplicity, flexibility, and performance for front-end development projects of any scale."
+      },
+      {
+        "title": "Python Development",
+        "link": "/python-development",
+        "description": "Harnessing the versatility and simplicity of Python programming language for web development, including Django and Flask frameworks, to create secure, scalable, and maintainable web applications."
+      },
+      {
+        "title": "WordPress Development",
+        "link": "/wordpress-development",
+        "description": "Customizing and extending WordPress CMS platform to create bespoke websites, blogs, and e-commerce stores with intuitive content management, flexibility, and scalability."
+      }
+    ],
+    "projects": [
+      {
+        "title": "Project One",
+        "image": "/images/work/w1.png",
+        "link": "/"
+      },
+      {
+        "title": "Project Two",
+        "image": "/images/work/w2.png",
+        "link": "/"
+      }
+    ],
+    "ourProcess":  [
+      {
+        "title": "Workshop",
+        "description": "We start by understanding your goals and objectives. Through a series of workshops, we gather all the\n        necessary information to ensure we’re aligned with your vision.",
+        "badge": "Workshop",
+        "image": "/images/process/process1.svg"
+      },
+      {
+        "title": "Design",
+        "description": "Our design team creates wireframes and mockups to visualize the user experience and interface. We iterate\n        on the designs based on your feedback and requirements.",
+        "badge": "Design",
+        "image": "/images/process/process2.svg"
+      },
+      {
+        "title": "Development",
+        "description": "Our development team brings the designs to life, building the AI solution using the latest technologies and\n        best practices. We ensure the solution is scalable, secure, and performant.",
+        "badge": "Development",
+        "image": "/images/process/process3.svg"
+      },
+      {
+        "title": "Testing",
+        "description": "We rigorously test the AI solution to ensure it meets your requirements and performs as expected. We\n        conduct various tests, including functional, performance, and security testing.",
+        "badge": "Testing",
+        "image": "/images/process/process4.svg"
+      },
+      {
+        "title": "Deployment",
+        "description": "Once the AI solution is tested and approved, we deploy it to your production environment. We provide\n        support and maintenance to ensure the solution runs smoothly and efficiently.",
+        "badge": "Deployment",
+        "image": "/images/process/process5.svg"
+      }
+    ],
+    "otherServices": [
+      {
+        "name": "React",
+        "image":"/images/tech/t32.svg",
+        "category": "Development",
+        "link": "/react-development"
+      },
+      {
+        "name": "Node",
+        "image":"/images/tech/t35.svg",
+        "category": "Development",
+        "link": "/node-development"
+      },
+      {
+        "name": "Angular",
+        "image":"/images/tech/t33.svg",
+        "category": "Development",
+        "link": "/angular-development"
+      },
+      {
+        "name": "Vue",
+        "image":"/images/tech/t34.svg",
+        "category": "Development",
+        "link": "/vue-development"
+      },
+      {
+        "name": "Python",
+        "image":"/images/tech/t1.png",
+        "category": "Development",
+        "link": "/python-development"
+      },
+      {
+        "name": "Wordpress",
+        "image":"/images/tech/t38.png",
+        "category": "Development",
+        "link": "/wordpress-development"
+      }
+    ],    "whyContent": [
+    {
+      "title": "Expert Developers",
+      "description": "Our team comprises experienced web developers with expertise in a wide range of technologies and frameworks, ensuring the highest quality standards and best practices."
+    },
+    {
+      "title": "Customized Solutions",
+      "description": "We tailor our web solutions to your specific requirements, preferences, and business objectives, ensuring they align with your brand identity and user expectations."
+    },
+    {
+      "title": "Innovation",
+      "description": "We leverage the latest technologies, tools, and methodologies to develop innovative web solutions that stand out in the crowded online marketplace and drive user engagement and conversions."
+    },
+    {
+      "title": "Proven Success",
+      "description": "With a track record of successful web development projects across various industries and use cases, we demonstrate our ability to deliver tangible business results and exceed client expectations."
+    },
+    {
+      "title": "User-Centric Design",
+      "description": "We prioritize user experience in our websites, ensuring they are intuitive, visually appealing, and easy to navigate, resulting in higher user satisfaction and conversion rates."
+    },
+    {
+      "title": "Continuous Support",
+      "description": "From concept to deployment and beyond, we provide comprehensive support and maintenance services to ensure the ongoing success and performance of your websites."
+    },
+    {
+      "title": "Scalability",
+      "description": "Our websites are designed to scale with your business, accommodating growth and evolving requirements without compromising performance, security, or reliability."
+    },
+    {
+      "title": "Security",
+      "description": "We implement robust security measures and best practices to protect your websites and users' data from unauthorized access, breaches, and cyber threats, ensuring the confidentiality, integrity, and availability of your digital assets."
+    },
+    {
+      "title": "Cost-Effectiveness",
+      "description": "We offer competitive pricing for our web development services, delivering excellent value for your investment and maximizing your return on investment (ROI)."
+    }
+  ],
+    "faq": [
+      {
+        "question": "What web development services do you offer?",
+        "answer": "We offer a range of web development services including React.js development, Angular.js development, Next.js development, Node.js development, Nest.js development, Vue.js development, Python development, and WordPress development. Our solutions are tailored to meet your specific needs and drive measurable results."
+      },
+      {
+        "question": "How can web development benefit my business?",
+        "answer": "Web development can help your business by creating a strong online presence, engaging your audience, showcasing your products or services, and driving growth. Our solutions are designed to align with your business goals and exceed user expectations."
+      },
+      {
+        "question": "What is your approach to web development projects?",
+        "answer": "We follow a meticulous approach to web development, combining creativity, technical expertise, and industry best practices. We collaborate closely with you to understand your unique business goals, target audience, and brand identity, ensuring that each website we create is tailored to your specific requirements and objectives."
+      }
+    ],
+    "getInTouch": "Ready to transform your online presence with expert web development solutions? Contact us today to schedule a consultation and discover how KriraAI can help you create custom web solutions that drive engagement and business growth."
+  },
+  {
+    "id": "custom-software",
+    "category": "Custom Software Development",
+    "title": "Custom Software Development",
+    "subtitle": "Innovative Custom Software Solutions",
+    "description": "Welcome to KriraAI, your trusted partner for innovative Custom Software Development solutions. In today's fast-paced business environment, off-the-shelf software solutions may not always meet your unique business needs and requirements. At KriraAI, we specialize in developing tailor-made software solutions that address your specific challenges, streamline your processes, and drive business growth.",
+    "image": "/images/service/custom_dev.svg",
+    "serviceDescription": "At KriraAI, we take a client-centric approach to Custom Software Development, focusing on understanding your business objectives, workflows, and pain points to deliver solutions that align with your goals and drive tangible results. Our team of experienced developers, engineers, and project managers collaborate closely with you throughout the development process to ensure that your custom software solution meets and exceeds your expectations.",
+    "ourWork": "category=Saas",
+    "details": [
+      {
+        "title": "Desktop Software Development",
+        "link": "/desktop-app",
+        "description": "Building robust and scalable desktop applications tailored to your business needs, whether it's for internal use, customer-facing applications, or specialized industry solutions."
+      },
+      {
+        "title": "Customer Relationship Management (CRM) Software",
+        "link": "/customer-relationship-management",
+        "description": "Developing custom CRM solutions to manage customer interactions, streamline sales and marketing processes, and enhance customer satisfaction and loyalty."
+      },
+      {
+        "title": "Inventory Management Software Development",
+        "link": "/inventory-management",
+        "description": "Creating customized inventory management systems to track and manage inventory levels, orders, shipments, and supply chain operations efficiently and accurately."
+      },
+      {
+        "title": "Accounting Software Development",
+        "link": "/accounting",
+        "description": "Designing bespoke accounting software solutions to automate financial processes, manage budgets, track expenses, and generate reports for improved financial management and decision-making."
+      },
+      {
+        "title": "Enterprise Resource Planning (ERP) Software",
+        "link": "/enterprise-resource-planning",
+        "description": "Developing comprehensive ERP systems to integrate and streamline business processes across departments, including finance, human resources, supply chain, and manufacturing."
+      },
+      {
+        "title": "Human Resource Management (HRM) Software",
+        "link": "/human-resource-management",
+        "description": "Building customized HRM solutions to streamline HR processes, including recruitment, onboarding, performance management, training, and employee engagement."
+      },
+      {
+        "title": "Business Intelligence (BI) Software",
+        "link": "/business-intelligence",
+        "description": "Designing custom BI solutions to analyze and visualize data, gain actionable insights, and make informed business decisions to drive growth and competitive advantage."
+      },
+      {
+        "title": "Supply Chain Management (SCM) Software",
+        "link": "/supply-chain-management",
+        "description": "Developing tailored SCM solutions to optimize supply chain operations, including inventory management, procurement, logistics, and demand forecasting, for enhanced efficiency and cost savings."
+      }
+    ],
+    "projects": [
+      {
+        "title": "Project One",
+        "image": "/images/work/w1.png",
+        "link": "/"
+      },
+      {
+        "title": "Project Two",
+        "image": "/images/work/w2.png",
+        "link": "/"
+      }
+    ],
+    "ourProcess":  [
+      {
+        "title": "Workshop",
+        "description": "We start by understanding your goals and objectives. Through a series of workshops, we gather all the\n        necessary information to ensure we’re aligned with your vision.",
+        "badge": "Workshop",
+        "image": "/images/process/process1.svg"
+      },
+      {
+        "title": "Design",
+        "description": "Our design team creates wireframes and mockups to visualize the user experience and interface. We iterate\n        on the designs based on your feedback and requirements.",
+        "badge": "Design",
+        "image": "/images/process/process2.svg"
+      },
+      {
+        "title": "Development",
+        "description": "Our development team brings the designs to life, building the AI solution using the latest technologies and\n        best practices. We ensure the solution is scalable, secure, and performant.",
+        "badge": "Development",
+        "image": "/images/process/process3.svg"
+      },
+      {
+        "title": "Testing",
+        "description": "We rigorously test the AI solution to ensure it meets your requirements and performs as expected. We\n        conduct various tests, including functional, performance, and security testing.",
+        "badge": "Testing",
+        "image": "/images/process/process4.svg"
+      },
+      {
+        "title": "Deployment",
+        "description": "Once the AI solution is tested and approved, we deploy it to your production environment. We provide\n        support and maintenance to ensure the solution runs smoothly and efficiently.",
+        "badge": "Deployment",
+        "image": "/images/process/process5.svg"
+      }
+    ],
+    "otherServices": [
+      {
+        "name": "React",
+        "image":"/images/tech/t32.svg",
+        "category": "Development",
+        "link": "/react-development"
+      },
+      {
+        "name": "Node",
+        "image":"/images/tech/t35.svg",
+        "category": "Development",
+        "link": "/node-development"
+      },
+      {
+        "name": "Angular",
+        "image":"/images/tech/t33.svg",
+        "category": "Development",
+        "link": "/angular-development"
+      },
+      {
+        "name": "Vue",
+        "image":"/images/tech/t34.svg",
+        "category": "Development",
+        "link": "/vue-development"
+      },
+      {
+        "name": "Python",
+        "image":"/images/tech/t1.png",
+        "category": "Development",
+        "link": "/python-development"
+      },
+      {
+        "name": "Wordpress",
+        "image":"/images/tech/t38.png",
+        "category": "Development",
+        "link": "/wordpress-development"
+      }
+    ],    "whyContent": [
+    {
+      "title": "Expertise",
+      "description": "Our team comprises experienced developers, engineers, and project managers with expertise in a wide range of technologies and industries, ensuring the highest quality standards and best practices."
+    },
+    {
+      "title": "Customization",
+      "description": "We tailor our custom software solutions to your specific requirements, preferences, and business objectives, ensuring they align with your workflows and deliver maximum value and efficiency."
+    },
+    {
+      "title": "Innovation",
+      "description": "We leverage the latest technologies, tools, and methodologies to develop innovative and cutting-edge custom software solutions that drive business growth, efficiency, and competitive advantage."
+    },
+    {
+      "title": "Proven Track Record",
+      "description": "With a track record of successful custom software projects across various industries and clients, we demonstrate our ability to deliver high-quality solutions that meet and exceed client expectations."
+    },
+    {
+      "title": "Scalability",
+      "description": "Our custom software solutions are designed to scale with your business, accommodating growth and evolving requirements without compromising performance, reliability, or security."
+    },
+    {
+      "title": "Security",
+      "description": "We prioritize the security and privacy of your custom software solutions, implementing robust security measures, encryption, access controls, and monitoring to protect your data and assets from unauthorized access, breaches, and cyber threats."
+    },
+    {
+      "title": "Collaborative Partnership",
+      "description": "We believe in close collaboration and communication with our clients throughout the custom software development process, fostering a transparent and iterative approach that ensures alignment with your vision, goals, and feedback."
+    },
+    {
+      "title": "Comprehensive Support",
+      "description": "From planning and development to deployment and maintenance, we provide comprehensive support and maintenance services to ensure the ongoing success and performance of your custom software solutions."
+    }
+  ],
+    "faq": [
+      {
+        "question": "What custom software development services do you offer?",
+        "answer": "We offer a range of custom software development services including desktop software, CRM, inventory management, accounting software, ERP, HRM, BI, marketing automation, and SCM solutions. Our solutions are tailored to meet your specific needs and drive measurable results."
+      },
+      {
+        "question": "How can custom software development benefit my business?",
+        "answer": "Custom software development can help your business by addressing your specific challenges, streamlining processes, and driving growth. Our solutions are designed to deliver tangible results and align with your business goals."
+      },
+      {
+        "question": "What is your approach to custom software development projects?",
+        "answer": "We take a client-centric approach to custom software development, focusing on understanding your business objectives, workflows, and pain points. We collaborate closely with you throughout the development process to deliver solutions that meet and exceed your expectations."
+      }
+    ],
+    "getInTouch": "Ready to transform your business with custom software solutions? Contact us today to schedule a consultation and discover how KriraAI can help you develop innovative software tailored to your unique needs and goals."
+  },
+  {
+    "id": "tech-consultancy",
+    "title": "Tech Consultancy",
+    "subtitle": "Strategic Guidance and Expertise for Digital Transformation",
+    "description": "Welcome to KriraAI's Tech Consultancy services, where we provide strategic guidance and expertise to help businesses navigate the ever-evolving technology landscape and achieve their digital transformation goals. With our deep domain knowledge, industry insights, and technical proficiency, we empower organizations to make informed decisions, leverage cutting-edge technologies, and drive innovation and growth.",
+    "image": "/images/service/tech_consult.svg",
+    "serviceDescription": "At KriraAI, we believe in taking a holistic and collaborative approach to tech consultancy, working closely with our clients to understand their business goals, challenges, and constraints. Whether you're looking to adopt emerging technologies, optimize existing IT infrastructure, improve operational efficiency, or enhance customer experience, we offer tailored solutions and actionable recommendations that align with your strategic objectives and deliver tangible business value.",
+    "ourWork": "category=all",
+    "details": [
+      {
+        "title": "Digital Transformation Strategy",
+        "description": "Develop comprehensive digital transformation strategies that leverage emerging technologies to drive innovation, improve agility, and enhance competitiveness."
+      },
+      {
+        "title": "Technology Assessment and Roadmap",
+        "description": "Conduct thorough assessments of your current technology landscape, identify gaps and opportunities, and develop strategic roadmaps for technology adoption and integration."
+      },
+      {
+        "title": "Technology Selection and Procurement",
+        "description": "Assist with technology selection and procurement processes, evaluating vendor solutions, negotiating contracts, and ensuring alignment with business requirements and objectives."
+      },
+      {
+        "title": "IT Infrastructure Optimization",
+        "description": "Optimize your IT infrastructure for performance, scalability, and cost-efficiency, leveraging cloud computing, virtualization, containerization, and other advanced technologies."
+      },
+      {
+        "title": "Data Strategy and Analytics",
+        "description": "Develop data strategies that unlock the value of your data assets, enabling data-driven decision-making, predictive analytics, and actionable insights for business growth and innovation."
+      },
+      {
+        "title": "Cybersecurity and Risk Management",
+        "description": "Strengthen your cybersecurity posture and mitigate risks with comprehensive cybersecurity assessments, strategies, and solutions tailored to your industry, regulatory requirements, and risk tolerance."
+      },
+      {
+        "title": "Enterprise Architecture Design",
+        "description": "Design scalable and interoperable enterprise architectures that support business agility, innovation, and digital transformation initiatives, while ensuring alignment with organizational goals and standards."
+      },
+      {
+        "title": "IT Governance and Compliance",
+        "description": "Establish robust IT governance frameworks and compliance programs to ensure that IT investments and initiatives are aligned with business objectives, regulatory requirements, and industry best practices."
+      }
+    ],
+    "projects": [
+      {
+        "title": "Project One",
+        "image": "/images/work/tech_consultancy_project1.png",
+        "link": "/"
+      },
+      {
+        "title": "Project Two",
+        "image": "/images/work/tech_consultancy_project2.png",
+        "link": "/"
+      }
+    ],
+    "ourProcess":  [
+      {
+        "title": "Workshop",
+        "description": "We start by understanding your goals and objectives. Through a series of workshops, we gather all the\n        necessary information to ensure we’re aligned with your vision.",
+        "badge": "Workshop",
+        "image": "/images/process/process1.svg"
+      },
+      {
+        "title": "Design",
+        "description": "Our design team creates wireframes and mockups to visualize the user experience and interface. We iterate\n        on the designs based on your feedback and requirements.",
+        "badge": "Design",
+        "image": "/images/process/process2.svg"
+      },
+      {
+        "title": "Development",
+        "description": "Our development team brings the designs to life, building the AI solution using the latest technologies and\n        best practices. We ensure the solution is scalable, secure, and performant.",
+        "badge": "Development",
+        "image": "/images/process/process3.svg"
+      },
+      {
+        "title": "Testing",
+        "description": "We rigorously test the AI solution to ensure it meets your requirements and performs as expected. We\n        conduct various tests, including functional, performance, and security testing.",
+        "badge": "Testing",
+        "image": "/images/process/process4.svg"
+      },
+      {
+        "title": "Deployment",
+        "description": "Once the AI solution is tested and approved, we deploy it to your production environment. We provide\n        support and maintenance to ensure the solution runs smoothly and efficiently.",
+        "badge": "Deployment",
+        "image": "/images/process/process5.svg"
+      }
+    ],
+    "otherServices": [
+      {
+        "name": "React",
+        "image":"/images/tech/t32.svg",
+        "category": "Development",
+        "link": "/react-development"
+      },
+      {
+        "name": "Node",
+        "image":"/images/tech/t35.svg",
+        "category": "Development",
+        "link": "/node-development"
+      },
+      {
+        "name": "Angular",
+        "image":"/images/tech/t33.svg",
+        "category": "Development",
+        "link": "/angular-development"
+      },
+      {
+        "name": "Vue",
+        "image":"/images/tech/t34.svg",
+        "category": "Development",
+        "link": "/vue-development"
+      },
+      {
+        "name": "Python",
+        "image":"/images/tech/t1.png",
+        "category": "Development",
+        "link": "/python-development"
+      },
+      {
+        "name": "Wordpress",
+        "image":"/images/tech/t38.png",
+        "category": "Development",
+        "link": "/wordpress-development"
+      }
+    ],    "whyContent": [
+    {
+      "title": "Expertise",
+      "description": "Our team of technology consultants brings deep domain expertise and technical proficiency across a wide range of industries and technology domains."
+    },
+    {
+      "title": "Collaborative Partnership",
+      "description": "We believe in building strong partnerships with our clients, working closely with them to understand their unique challenges, goals, and constraints, and delivering solutions that meet and exceed their expectations."
+    },
+    {
+      "title": "Customized Solutions",
+      "description": "We understand that one size doesn't fit all, and we tailor our tech consultancy services to meet your specific business requirements, industry dynamics, and organizational culture."
+    },
+    {
+      "title": "Pragmatic Approach",
+      "description": "We focus on delivering practical, actionable solutions that drive tangible business outcomes, leveraging proven methodologies, best practices, and real-world experience."
+    },
+    {
+      "title": "Innovation",
+      "description": "We stay at the forefront of technological advancements and industry trends, continuously exploring and adopting new tools, techniques, and strategies to deliver cutting-edge solutions to our clients."
+    },
+    {
+      "title": "Commitment to Excellence",
+      "description": "We are committed to upholding the highest standards of quality, professionalism, and integrity in everything we do, ensuring that our clients receive the highest level of service and value."
+    }
+  ],
+    "faq": [
+      {
+        "question": "Why choose KriraAI for Tech Consultancy?",
+        "answer": "Choosing KriraAI means partnering with a leader in tech consultancy. Our commitment to excellence and focus on delivering bespoke, high-quality solutions ensures that your business benefits from outstanding strategic guidance and technical expertise. Trust KriraAI to be your definitive partner for all your tech consultancy needs, and experience the difference that expert-driven, custom-tailored consultancy solutions can make."
+      },
+      {
+        "question": "How do KriraAI's Tech Consultancy services transform businesses?",
+        "answer": "By selecting KriraAI, you are ensuring that your tech consultancy projects are handled by the best in the industry. Our dedication to providing unparalleled service and innovative solutions makes us the ultimate choice for businesses looking to navigate the technology landscape and achieve digital transformation. Trust KriraAI for your tech consultancy needs and see your business thrive."
+      }
+    ],
+    "getInTouch": {
+      "content": "Ready to unlock your business potential? Empower your business with strategic guidance and expertise from KriraAI's Tech Consultancy services. Whether you're embarking on a digital transformation journey, facing technology challenges, or seeking to leverage emerging technologies for competitive advantage, we have the knowledge, experience, and passion to help you succeed. Contact us today to learn more about how KriraAI can partner with you on your technology roadmap to success."
+    }
+  }
+]

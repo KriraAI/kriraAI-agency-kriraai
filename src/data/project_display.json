@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Moonbeam",
+    "link": "/",
+    "thumbnail": "/images/work/w1.png"
+  },
+    {
+        "title": "Cursor",
+        "link": "/",
+        "thumbnail": "/images/work/w2.png"
+    },
+    {
+        "title": "Rogue",
+        "link": "/",
+        "thumbnail": "/images/work/w3.png"
+    },
+    {
+        "title": "Editorially",
+        "link": "/",
+        "thumbnail": "/images/work/w4.png"
+    },
+    {
+        "title": "Editrix AI",
+        "link": "/",
+        "thumbnail": "/images/work/w5.png"
+    },
+    {
+        "title": "Krix AI",
+        "link": "/",
+        "thumbnail": "/images/work/w6.png"
+    },
+    {
+        "title": "Krirax AI",
+        "link": "/",
+        "thumbnail": "/images/work/w7.png"
+    },
+    {
+        "title": "Krim AI",
+        "link": "/",
+        "thumbnail": "/images/work/w8.png"
+    },
+    {
+        "title": "Kriras AI",
+        "link": "/",
+        "thumbnail": "/images/work/w9.png"
+    },
+    {
+        "title": "Kriyax AI",
+        "link": "/",
+        "thumbnail": "/images/work/w10.png"
+    }
+]

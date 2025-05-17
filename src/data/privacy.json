@@ -1,0 +1,45 @@
+{
+  "title": "Privacy Policy",
+  "content": [
+    {
+      "sectionTitle": "Introduction",
+      "sectionContent": "Welcome to KriraAI, hereinafter referred to as \"Company,\" \"we,\" \"us,\" or \"our.\" We value your privacy and are committed to protecting your personal information. This Privacy Policy explains how we collect, use, and safeguard your information when you use our website [www.kriraai.com] (the \"Website\") and our services (collectively, the \"Services\"). If you have any questions or concerns regarding this Privacy Policy or our data practices, please contact us at [info@kriraai.com]."
+    },
+    {
+      "sectionTitle": "Information We Collect",
+      "sectionContent": "We collect information to provide and improve our Services. This information may include personal data voluntarily provided by you, such as your name, email address, contact number, and other details necessary for the efficient use of our Services. Additionally, we may collect device information, such as hardware model, operating system, and unique device identifiers, to enhance user experience and security."
+    },
+    {
+      "sectionTitle": "Use of Collected Information",
+      "sectionContent": "The information we collect is utilized to deliver personalized features and enhance user satisfaction. We analyze this data to understand market trends and tailor our services accordingly. We respect user privacy and only use information for purposes outlined in this policy, seeking user discretion before utilizing data for any other purposes."
+    },
+    {
+      "sectionTitle": "Sharing of Personal Information",
+      "sectionContent": "We may share personal information with third parties to provide access to our Services, comply with legal obligations, enforce our User Agreement, or prevent fraudulent activities. Any shared personal information is subject to strict confidentiality agreements. We may also disclose personal information in response to legal process or to protect our rights, property, or safety."
+    },
+    {
+      "sectionTitle": "Cookies and Tracking Technologies",
+      "sectionContent": "We may use cookies and similar tracking technologies to collect and store information. You can manage cookie preferences through your web browser settings, but please note that disabling cookies may impact certain features of the Website."
+    },
+    {
+      "sectionTitle": "Data Retention",
+      "sectionContent": "We retain your personal information only for as long as necessary to fulfill the purposes outlined in this Privacy Policy, unless a longer retention period is required or permitted by law."
+    },
+    {
+      "sectionTitle": "Security Measures",
+      "sectionContent": "We implement organizational and technical security measures to protect your personal information. However, no method of transmission over the internet or electronic storage is 100% secure, and we cannot guarantee absolute security. You should access the Website within a secure environment."
+    },
+    {
+      "sectionTitle": "Your Privacy Rights",
+      "sectionContent": "Depending on your jurisdiction, you may have certain rights regarding your personal information, such as the right to access, rectify, or erase your data. If applicable, you may also have the right to data portability and to object to processing. We will consider and act upon any request in accordance with applicable data protection laws."
+    },
+    {
+      "sectionTitle": "Consent",
+      "sectionContent": "By using the Website and providing personal information, you consent to the collection and use of your information as outlined in this Privacy Policy. Please note that any information shared in publicly accessible areas of the Website may be read, collected, and used by others."
+    },
+    {
+      "sectionTitle": "Changes to this Privacy Policy",
+      "sectionContent": "We may update this Privacy Policy periodically to reflect changes in our data practices. The effective date of the policy will indicate the last time it was revised. We encourage you to review this policy regularly for any updates."
+    }
+  ]
+}
