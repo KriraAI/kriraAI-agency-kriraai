@@ -7,7 +7,21 @@ import Layout from "@/components/Layout";
 const inter = Inter({ subsets: ["latin"] });
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
+    
     <html suppressHydrationWarning lang="en">
+      <head>
+        {`
+
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-DZRC7KY0QJ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-DZRC7KY0QJ');
+</script>
+        `}
+      </head>
     <body className={`bg-[#EEF0F4] dark:bg-total-black ${inter.className}`}>
     <Layout>
       {children}
