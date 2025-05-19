@@ -11,32 +11,32 @@
     "details": [
       {
         "title": "Machine Learning",
-        "link": "/machine-learning",
+        "link": "/machine-learning-company",
         "description": "Predictive Analytics: Developing machine learning models to analyze historical data, identify patterns, and make accurate predictions about future outcomes."
       },
       {
         "title": "Deep Learning",
-        "link": "/deep-learning",
+        "link": "/deep-learning-company",
         "description": "Image Recognition: Training deep neural networks to recognize objects, faces, and patterns in images and videos for applications such as security, healthcare, and retail."
       },
       {
         "title": "Natural Language Processing (NLP)",
-        "link": "/natural-language-processing",
+        "link": "/natural-language-processing-company",
         "description": "Developing NLP models to understand and generate human-like text, enabling applications such as chatbots, sentiment analysis, and language translation."
       },
       {
         "title": "Computer Vision",
-        "link": "/computer-vision",
+        "link": "/computer-vision-company",
         "description": "Object Detection and Tracking: Building computer vision systems to detect, classify, and track objects in real-time video streams for applications such as surveillance and autonomous vehicles."
       },
       {
         "title": "Chatbot Development",
-        "link": "/chatbot-development",
+        "link": "/chatbot-development-company",
         "description": "Conversational AI: Designing and implementing chatbots that simulate natural conversations and assist users with tasks such as customer support, information retrieval, and transaction processing."
       },
       {
         "title": "Data Science",
-        "link": "/data-science",
+        "link": "/data-science-company",
         "description": "Data Analysis: Applying statistical techniques and machine learning algorithms to analyze large datasets, extract insights, and drive data-driven decision-making."
       }
     ],
@@ -57,37 +57,37 @@
         "name": "React",
         "image":"/images/tech/t32.svg",
         "category": "Development",
-        "link": "/react-development"
+        "link": "/react-development-company"
       },
       {
         "name": "Node",
         "image":"/images/tech/t35.svg",
         "category": "Development",
-        "link": "/node-development"
+        "link": "/node-development-company"
       },
       {
         "name": "Angular",
         "image":"/images/tech/t33.svg",
         "category": "Development",
-        "link": "/angular-development"
+        "link": "/angular-development-company"
       },
       {
         "name": "Vue",
         "image":"/images/tech/t34.svg",
         "category": "Development",
-        "link": "/vue-development"
+        "link": "/vue-development-company"
       },
       {
         "name": "Python",
         "image":"/images/tech/t1.png",
         "category": "Development",
-        "link": "/python-development"
+        "link": "/python-development-company"
       },
       {
         "name": "Wordpress",
         "image":"/images/tech/t38.png",
         "category": "Development",
-        "link": "/wordpress-development"
+        "link": "/wordpress-development-company"
       }
     ],
     "ourProcess":  [
@@ -1337,7 +1337,7 @@
   },
   {
     "id": "tech-consultancy-compony",
-    "title": "Tech Consultancy",
+    "title": "Tech Consultancy", 
     "subtitle": "Strategic Guidance and Expertise for Digital Transformation",
     "description": "Welcome to KriraAI's Tech Consultancy services, where we provide strategic guidance and expertise to help businesses navigate the ever-evolving technology landscape and achieve their digital transformation goals. With our deep domain knowledge, industry insights, and technical proficiency, we empower organizations to make informed decisions, leverage cutting-edge technologies, and drive innovation and growth.",
     "image": "/images/service/tech_consult.svg",
