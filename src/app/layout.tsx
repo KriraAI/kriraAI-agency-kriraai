@@ -9,19 +9,18 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     
     <html suppressHydrationWarning lang="en">
-      <head>
-        {`
-
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-DZRC7KY0QJ"></script>
+      <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DZRC7KY0QJ"></script>
 <script>
+  {`
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
   gtag('config', 'G-DZRC7KY0QJ');
+  `}
 </script>
-        `}
-      </head>
+    <meta name="google-site-verification" content="76BefZIbh9iZtA3J2gPjl4QYw3TrIkhSPbMW8DCUf6o" />
     <body className={`bg-[#EEF0F4] dark:bg-total-black ${inter.className}`}>
     <Layout>
       {children}

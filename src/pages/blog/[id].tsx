@@ -32,7 +32,7 @@ const BlogDetailsPage: React.FC<BlogDetailsPageProps> = ({ blog }) => {
     }}
   />
         <title>{blog.title} - KriraAI</title>
-        <meta name="google-site-verification" content="76BefZIbh9iZtA3J2gPjl4QYw3TrIkhSPbMW8DCUf6o" />
+       
         <meta name="description" content={blog.description} />
         <meta property="og:title" content={`${blog.title} - Your Company Name`} />
         <meta property="og:description" content={blog.description} />
