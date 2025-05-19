@@ -28,18 +28,17 @@ const ServicePage = ({ service, isMainService }: InferGetStaticPropsType<typeof 
         <meta property="og:title" content={`${service.title} - Your Company Name`} />
         <meta property="og:description" content={service.description} />
 
-        <meta name="google-site-verification" content="76BefZIbh9iZtA3J2gPjl4QYw3TrIkhSPbMW8DCUf6o" />
-      {/* <!-- Google tag (gtag.js) --> */}
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-DZRC7KY0QJ"></script>
-<script>
-  {`
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-DZRC7KY0QJ');
-  `}
-</script>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-DZRC7KY0QJ"></script>
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', 'G-DZRC7KY0QJ');
+            `,
+          }}
+        />
       </Head>
       <div className="md:container md:mx-auto md:p-4">
         <ServiceHero
