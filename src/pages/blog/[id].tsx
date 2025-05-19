@@ -20,22 +20,11 @@ const BlogDetailsPage: React.FC<BlogDetailsPageProps> = ({ blog }) => {
   return (
     <>
       <Head>
- <script async src="https://www.googletagmanager.com/gtag/js?id=G-DZRC7KY0QJ"></script>
-  <script
-    dangerouslySetInnerHTML={{
-      __html: `
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', 'G-DZRC7KY0QJ');
-      `,
-    }}
-  />
         <title>{blog.title} - KriraAI</title>
-       
         <meta name="description" content={blog.description} />
         <meta property="og:title" content={`${blog.title} - Your Company Name`} />
         <meta property="og:description" content={blog.description} />
+        <meta name="google-site-verification" content="76BefZIbh9iZtA3J2gPjl4QYw3TrIkhSPbMW8DCUf6o" />
       </Head>
       <section className="pb-[120px] pt-[150px] bg-white dark:bg-total-black">
         <div className="container">
