@@ -21,6 +21,7 @@ const BlogDetailsPage: React.FC<BlogDetailsPageProps> = ({ blog }) => {
     <>
       <Head>
         <title>{blog.title} - KriraAI</title>
+        <meta name="Best AI Development Company in India | Krira AI" content="Krira AI is a Best AI development company in India offering cutting-edge generative AI development services. Let's build the future with AI together." />
         <meta name="description" content={blog.description} />
         <meta property="og:title" content={`${blog.title} - Your Company Name`} />
         <meta property="og:description" content={blog.description} />
