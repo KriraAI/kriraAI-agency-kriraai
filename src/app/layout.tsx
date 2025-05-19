@@ -9,7 +9,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     
     <html suppressHydrationWarning lang="en">
-      <head>
+
        <meta name="google-site-verification" content="76BefZIbh9iZtA3J2gPjl4QYw3TrIkhSPbMW8DCUf6o" />
       {/* <!-- Google tag (gtag.js) --> */}
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-DZRC7KY0QJ"></script>
@@ -22,7 +22,6 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   gtag('config', 'G-DZRC7KY0QJ');
   `}
 </script>
-</head>
    
     <body className={`bg-[#EEF0F4] dark:bg-total-black ${inter.className}`}>
     <Layout>
