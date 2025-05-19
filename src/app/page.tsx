@@ -11,7 +11,7 @@ import ProjectDisplay from "@/components/ui/project-display";
 
 export const metadata: Metadata = {
   title: "Best AI Development Company in India | Krira AI",
-  description: "Krira AI is a Best AI development company in India offering cutting-edge generative AI development services. Let's build the future with AI together."
+  description: "Krira AI is a Best AI development company in India offering cutting-edge generative AI development services. Let's build the future with AI together ."
 };
 
 export default function Home() {
