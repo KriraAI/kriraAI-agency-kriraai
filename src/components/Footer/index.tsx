@@ -223,7 +223,7 @@ const Footer = () => {
                   className={`transition-all ${openSection === "services" ? "max-h-full" : "max-h-0 overflow-hidden lg:max-h-full lg:overflow-visible"}`}>
                   <li>
                     <Link
-                      href="/ai-services"
+                      href="/ai-services--company"
                       className="mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:text-body-color-dark dark:hover:text-primary"
                     >
                       AI services

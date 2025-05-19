@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "AI Services",
-    "link": "/ai-services",
+    "link": "/ai-services-company",
     "work": "category=AI+Services",
     "items": [
       "Data Science",
@@ -18,7 +18,7 @@
     "id": 2,
     "title": "App Development",
     "work": "category=Mobile+App+Development",
-    "link": "/mobile-app-development",
+    "link": "/mobile-app-development-company",
     "items": [
       "Android Development",
       "iOS Development",
@@ -31,7 +31,7 @@
     "id": 3,
     "title": "Web Development",
     "work": "category=Web+Development",
-    "link": "/web-development",
+    "link": "/web-development-company",
     "items": [
       "React Development",
       "Angular Development",
@@ -46,7 +46,7 @@
     "id": 4,
     "title": "Data & Analytics",
     "work": "category=all",
-    "link": "/data-analytics",
+    "link": "/data-analytics-company",
     "items": [
       "Web Scraping",
       "Database Management",
@@ -58,7 +58,7 @@
     "id": 5,
     "title": "UI/UX Design",
     "work": "category=UI/UX+Design",
-    "link": "/ui-ux-design",
+    "link": "/ui-ux-design-company",
     "items": [
       "UI Design",
       "UX Strategy",
@@ -71,7 +71,7 @@
     "id": 6,
     "title": "Branding",
     "work": "category=all",
-    "link": "/branding",
+    "link": "/branding-company",
     "items": [
       "Branding",
       "Packaging Design",
@@ -85,7 +85,7 @@
     "id": 7,
     "title": "Custom Software",
     "work": "category=Saas",
-    "link": "/custom-software",
+    "link": "/custom-software-company",
     "items": [
       "Desktop App",
       "Customer Relationship Management",
@@ -102,7 +102,7 @@
     "id": 8,
     "title": "Cloud Services",
     "work": "category=all",
-    "link": "/cloud-services",
+    "link": "/cloud-services-company",
     "items": [
       "DevOps",
       "MLOps"
@@ -113,7 +113,7 @@
     "id": 9,
     "title": "Tech Consultancy",
     "work": "category=all",
-    "link": "/tech-consultancy",
+    "link": "/tech-consultancy-company",
     "items": [
       "Tech Consultancy"
     ],

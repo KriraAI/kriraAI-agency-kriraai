@@ -74,15 +74,15 @@ export const mobileMenuData: Menu[] = [
     title: "Services",
     newTab: false,
     submenu: [
-      { id: 1, title: "AI Services ", path: "/ai-services", newTab: false },
-      { id: 2, title: "Web Development ", path: "/web-development", newTab: false },
-      { id: 3, title: "Mobile Development ", path: "/mobile-app-development", newTab: false },
-      { id: 4, title: "Cloud Services ", path: "/cloud-services", newTab: false },
-      { id: 5, title: "Data Analytics ", path: "/data-analytics", newTab: false },
-      { id: 6, title: "UI/UX Design ", path: "/ui-ux-design", newTab: false },
-      { id: 7, title: "Branding ", path: "/branding", newTab: false },
-      { id: 8, title: "Custom Software ", path: "/custom-software", newTab: false },
-      { id: 9, title: "Tech Consult ", path: "/tech-consultancy", newTab: false }
+      { id: 1, title: "AI Services ", path: "/ai-services-company", newTab: false },
+      { id: 2, title: "Web Development ", path: "/web-development-company", newTab: false },
+      { id: 3, title: "Mobile Development ", path: "/mobile-app-development-company", newTab: false },
+      { id: 4, title: "Cloud Services ", path: "/cloud-services-company", newTab: false },
+      { id: 5, title: "Data Analytics ", path: "/data-analytics-company", newTab: false },
+      { id: 6, title: "UI/UX Design ", path: "/ui-ux-design-company", newTab: false },
+      { id: 7, title: "Branding ", path: "/branding-company", newTab: false },
+      { id: 8, title: "Custom Software ", path: "/custom-software-company", newTab: false },
+      { id: 9, title: "Tech Consult ", path: "/tech-consultancy-company", newTab: false }
     ]
   },
   {
