@@ -1,3 +1,5 @@
+"use client";
+
 import { GetServerSideProps } from 'next';
 import Image from 'next/image';
 import { doc, getDoc } from 'firebase/firestore';
