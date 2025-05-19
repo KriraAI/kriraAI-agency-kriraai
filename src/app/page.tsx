@@ -3,11 +3,13 @@ import ScrollUp from "@/components/Common/ScrollUp";
 import Hero from "@/components/Hero";
 import ParallaxSection from "@/components/ParallaxSection";
 import TechStack from "@/components/TechStack";
-import { Metadata } from "next";
 import HomeTestimonial from "@/components/Reviews";
 import ProjectDisplayData from '@/data/project_display.json';
 import FAQ from "@/components/FAQ";
 import ProjectDisplay from "@/components/ui/project-display";
+// export const dynamic = 'force-dynamic';
+import { Metadata } from "next";
+
 
 export const metadata: Metadata = {
   title: "Best AI Development Company in India | Krira AI",
