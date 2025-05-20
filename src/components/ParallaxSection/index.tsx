@@ -64,6 +64,7 @@ const ParallaxSectionItem = ({ service, index, isMobile }) => {
           />
         </div>
         <div className="w-full md:w-1/2 mb-8 text-center md:mb-0 md:text-left">
+        {/* check */}
         <meta name="Best Data Science Service Company in India | Krira AI" content="Unlock data-driven success with Krira AI, the best data science service company in India offering expert analytics, consulting, and AI solutions." />
           <Link href={service.link}>
             <h2 className="mb-8 text-2xl md:text-4xl font-bold text-gray-900 dark:text-gray-100 hover:text-primary">
