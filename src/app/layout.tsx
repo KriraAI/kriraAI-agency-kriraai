@@ -18,7 +18,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
        <meta name="AI-Powered Natural language processing company | Krira AI" content="Krira AI delivers cutting-edge AI-powered natural language processing solutions for robust enterprise-grade text analytics, chatbots and customer insights." />
         <meta name="Top Computer Vision Services for AI Solutions | Krira AI" content="Discover top computer vision services by Krira AI. We offer advanced AI solutions to transform industries with intelligent image and video analysis technology." />
         <meta name="AI-Powered Chatbot Development Services | Krira AI" content="Elevate engagement with Krira AI’s AI-powered chatbot development services: custom, scalable solutions for seamless interactions and boosted conversions." />
-      {/* <!-- Google tag (gtag.js) --> */}
+      {/* <!-- Google tag (gtag.js) --> */} 
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-DZRC7KY0QJ"></script>
 <script>
   {`
