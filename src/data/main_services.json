@@ -1,6 +1,6 @@
 [
   {
-    "id": "ai-services-compony",
+    "id": "ai-services-company",
     "category": "AI Services",
     "title": "AI Services",
     "subtitle": "Cutting-Edge AI Solutions",
@@ -169,7 +169,7 @@
     "getInTouch": "Ready to harness the power of AI and transform your business? Contact us today to schedule a consultation and discover how KriraAI can help you leverage AI to drive innovation, automate processes, and unlock new opportunities."
   },
   {
-    "id": "branding-compony",
+    "id": "branding-company",
     "category": "Branding",
     "title": "Brand Identity",
     "subtitle": "Creating a Powerful and Cohesive Brand Identity",
@@ -337,7 +337,7 @@
     }
   },
   {
-    "id": "cloud-services-compony",
+    "id": "cloud-services-company",
     "category": "Cloud Services",
     "title": "Cloud Services",
     "subtitle": "Cutting-Edge Cloud Solutions",
@@ -493,7 +493,7 @@
     "getInTouch": "Ready to harness the power of cloud computing and transform your business? Contact us today to schedule a consultation and discover how KriraAI can help you leverage cloud technology to drive innovation, automate processes, and unlock new opportunities."
   },
   {
-    "id": "data-analytics-compony",
+    "id": "data-analytics-company",
     "category": "Data & Analytics",
     "title": "Data & Analytics",
     "subtitle": "Cutting-Edge Data & Analytics Solutions",
@@ -650,7 +650,7 @@
     "getInTouch": "Ready to harness the power of data and transform your business? Contact us today to schedule a consultation and discover how KriraAI can help you leverage Data & Analytics to drive innovation, optimize processes, and unlock new opportunities."
   },
   {
-    "id": "mobile-app-development-compony",
+    "id": "mobile-app-development-company",
     "category": "Mobile App Development",
     "title": "Mobile App Development",
     "subtitle": "Expert Mobile App Development Services",
@@ -816,7 +816,7 @@
     "getInTouch": "Ready to transform your business with innovative mobile applications? Contact us today to schedule a consultation and discover how KriraAI can help you develop user-centric mobile apps that drive engagement and business growth."
   },
   {
-    "id": "ui-ux-design-compony",
+    "id": "ui-ux-design-company",
     "category": "UI/UX Design",
     "title": "UI/UX Design",
     "subtitle": "Exceptional UI/UX Design Solutions",
@@ -978,7 +978,7 @@
     "getInTouch": "Ready to transform your digital presence with exceptional UI/UX design solutions? Contact us today to schedule a consultation and discover how KriraAI can help you create user-centric digital experiences that drive engagement and business success."
   },
   {
-    "id": "web-development-compony",
+    "id": "web-development-company",
     "category": "Web Development",
     "title": "Web Development",
     "subtitle": "Expert Web Development Services",
@@ -1154,7 +1154,7 @@
     "getInTouch": "Ready to transform your online presence with expert web development solutions? Contact us today to schedule a consultation and discover how KriraAI can help you create custom web solutions that drive engagement and business growth."
   },
   {
-    "id": "custom-software-compony",
+    "id": "custom-software-company",
     "category": "Custom Software Development",
     "title": "Custom Software Development",
     "subtitle": "Innovative Custom Software Solutions",
@@ -1336,7 +1336,7 @@
     "getInTouch": "Ready to transform your business with custom software solutions? Contact us today to schedule a consultation and discover how KriraAI can help you develop innovative software tailored to your unique needs and goals."
   },
   {
-    "id": "tech-consultancy-compony",
+    "id": "tech-consultancy-company",
     "title": "Tech Consultancy", 
     "subtitle": "Strategic Guidance and Expertise for Digital Transformation",
     "description": "Welcome to KriraAI's Tech Consultancy services, where we provide strategic guidance and expertise to help businesses navigate the ever-evolving technology landscape and achieve their digital transformation goals. With our deep domain knowledge, industry insights, and technical proficiency, we empower organizations to make informed decisions, leverage cutting-edge technologies, and drive innovation and growth.",
