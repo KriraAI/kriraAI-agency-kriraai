@@ -2,12 +2,13 @@
   {
     "id": "ai-services-company",
     "category": "AI Services",
-    "title": "Top AI Development Services Company | Custom AI Solutions",  
+    "title": "AI Services",
     "subtitle": "Cutting-Edge AI Solutions",
     "description": "Welcome to KriraAI, your ultimate destination for cutting-edge Artificial Intelligence (AI) services. At KriraAI, we harness the power of AI to drive innovation, solve complex challenges, and unlock new opportunities for businesses across industries. With our expertise in AI technologies and commitment to excellence, we offer comprehensive AI services that empower organizations to leverage data-driven insights, automate processes, and enhance decision-making.",
     "image": "/images/service/ai_services.svg",
     "serviceDescription": "At KriraAI, we take a strategic approach to AI services, focusing on understanding your organization's unique needs, objectives, and constraints. Whether you're looking to enhance customer experience, optimize operations, or drive business growth, we work closely with you to develop tailored AI solutions that address your specific challenges and deliver measurable results.",
     "ourWork": "category=AI+Services",
+    
     "details": [
       {
         "title": "Machine Learning",
@@ -168,6 +169,7 @@
     ],
     "getInTouch": "Ready to harness the power of AI and transform your business? Contact us today to schedule a consultation and discover how KriraAI can help you leverage AI to drive innovation, automate processes, and unlock new opportunities."
   },
+  
   {
     "id": "branding-company",
     "category": "Branding",
