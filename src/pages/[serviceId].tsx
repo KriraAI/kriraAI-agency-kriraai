@@ -24,6 +24,7 @@ const ServicePage = ({ service, isMainService }: InferGetStaticPropsType<typeof 
     <>
       <Head>
         <title>{service.title} - KriraAI</title>
+         <meta name="Top AI Development Services Company | Custom AI Solutions" content="Looking for expert AI development services? Krira AI offers custom AI solutions, generative AI, and scalable platforms. Top AI services provider in India." />
         <meta name="description" content={service.description} />
         <meta property="og:title" content={`${service.title} - Your Company Name`} />
         <meta property="og:description" content={service.description} />
