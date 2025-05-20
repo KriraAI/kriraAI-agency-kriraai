@@ -91,3 +91,4 @@ export const getStaticProps: GetStaticProps<{ service: Service; isMainService: b
 };
 
 export default ServicePage;
+
