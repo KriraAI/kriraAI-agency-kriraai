@@ -182,22 +182,22 @@
     "details": [
       {
         "title": "Packaging Design",
-        "link": "/packaging-design",
+        "link": "/packaging-design-company",
         "description": "Product Packaging, Label Design."
       },
       {
         "title": "Motion Design",
-        "link": "/motion-design",
+        "link": "/motion-design-company",
         "description": "Explainer Videos, Animation."
       },
         {
             "title": "Social Media Design",
-            "link": "/social-media-design",
+            "link": "/social-media-design-company",
             "description": "Profile and Cover Design, Post Graphics."
         },
         {
             "title": "Promotion Banner Design",
-            "link": "/promotion-banner",
+            "link": "/promotion-banner-company",
             "description": "Website Banners, Social Media Banners."
         }
     ],
@@ -250,37 +250,37 @@
         "name": "React",
         "image":"/images/tech/t32.svg",
         "category": "Development",
-        "link": "/react-development"
+        "link": "/react-development-company"
       },
       {
         "name": "Node",
         "image":"/images/tech/t35.svg",
         "category": "Development",
-        "link": "/node-development"
+        "link": "/node-development-company"
       },
       {
         "name": "Angular",
         "image":"/images/tech/t33.svg",
         "category": "Development",
-        "link": "/angular-development"
+        "link": "/angular-development-company"
       },
       {
         "name": "Vue",
         "image":"/images/tech/t34.svg",
         "category": "Development",
-        "link": "/vue-development"
+        "link": "/vue-development-company"
       },
       {
         "name": "Python",
         "image":"/images/tech/t1.png",
         "category": "Development",
-        "link": "/python-development"
+        "link": "/python-development-company"
       },
       {
         "name": "Wordpress",
         "image":"/images/tech/t38.png",
         "category": "Development",
-        "link": "/wordpress-development"
+        "link": "/wordpress-development-company"
       }
     ],    "whyContent": [
     {
@@ -350,12 +350,12 @@
     "details": [
       {
         "title": "DevOps",
-        "link": "/devops",
+        "link": "/devops-company",
         "description": "Implementing DevOps practices and tools to streamline and automate the software development lifecycle, enabling faster delivery, higher quality, and greater collaboration between development and operations teams."
       },
       {
         "title": "MLOps",
-        "link": "/mlops",
+        "link": "/mlops-company",
         "description": "Integrating machine learning (ML) workflows with DevOps processes to operationalize ML models, automate model training and deployment, and ensure continuous monitoring and optimization for improved ML model performance and efficiency."
       }
     ],
@@ -408,37 +408,37 @@
         "name": "React",
         "image":"/images/tech/t32.svg",
         "category": "Development",
-        "link": "/react-development"
+        "link": "/react-development-company"
       },
       {
         "name": "Node",
         "image":"/images/tech/t35.svg",
         "category": "Development",
-        "link": "/node-development"
+        "link": "/node-development-company"
       },
       {
         "name": "Angular",
         "image":"/images/tech/t33.svg",
         "category": "Development",
-        "link": "/angular-development"
+        "link": "/angular-development-company"
       },
       {
         "name": "Vue",
         "image":"/images/tech/t34.svg",
         "category": "Development",
-        "link": "/vue-development"
+        "link": "/vue-development-company"
       },
       {
         "name": "Python",
         "image":"/images/tech/t1.png",
         "category": "Development",
-        "link": "/python-development"
+        "link": "/python-development-company"
       },
       {
         "name": "Wordpress",
         "image":"/images/tech/t38.png",
         "category": "Development",
-        "link": "/wordpress-development"
+        "link": "/wordpress-development-company"
       }
     ],    "whyContent": [
     {
@@ -506,17 +506,17 @@
     "details": [
       {
         "title": "Web Scraping",
-        "link": "/web-scraping",
+        "link": "/web-scraping-company",
         "description": "Extracting data from websites and online sources to gather valuable insights, monitor competitors, and inform business decisions."
       },
       {
         "title": "Database Management",
-        "link": "/database-management",
+        "link": "/database-management-company",
         "description": "Designing, implementing, and managing databases to store, organize, and secure your data efficiently and effectively."
       },
       {
         "title": "Data Analysis",
-        "link": "/data-analysis",
+        "link": "/data-analysis-company",
         "description": "Applying statistical analysis, data mining, and visualization techniques to uncover patterns, trends, and correlations in your data and derive actionable insights."
       }
     ],
@@ -569,37 +569,37 @@
         "name": "React",
         "image":"/images/tech/t32.svg",
         "category": "Development",
-        "link": "/react-development"
+        "link": "/react-development-company"
       },
       {
         "name": "Node",
         "image":"/images/tech/t35.svg",
         "category": "Development",
-        "link": "/node-development"
+        "link": "/node-development-company"
       },
       {
         "name": "Angular",
         "image":"/images/tech/t33.svg",
         "category": "Development",
-        "link": "/angular-development"
+        "link": "/angular-development-company"
       },
       {
         "name": "Vue",
         "image":"/images/tech/t34.svg",
         "category": "Development",
-        "link": "/vue-development"
+        "link": "/vue-development-company"
       },
       {
         "name": "Python",
         "image":"/images/tech/t1.png",
         "category": "Development",
-        "link": "/python-development"
+        "link": "/python-development-company"
       },
       {
         "name": "Wordpress",
         "image":"/images/tech/t38.png",
         "category": "Development",
-        "link": "/wordpress-development"
+        "link": "/wordpress-development-company"
       }
     ],    "whyContent": [
     {
@@ -663,22 +663,22 @@
     "details": [
       {
         "title": "Android Development",
-        "link": "/android-development",
+        "link": "/android-development-company",
         "description": "Crafting native Android applications tailored to the specific requirements and preferences of the Android platform, ensuring optimal performance, compatibility, and user experience."
       },
       {
         "title": "iOS Development",
-        "link": "/ios-development",
+        "link": "/ios-development-company",
         "description": "Building elegant and intuitive native iOS applications for iPhones, iPads, and other Apple devices, leveraging the latest iOS SDKs and design guidelines to deliver seamless user experiences."
       },
       {
         "title": "Flutter Development",
-        "link": "/flutter-development",
+        "link": "/flutter-development-company",
         "description": "Developing cross-platform mobile applications using Google's Flutter framework, allowing for rapid development, code reusability, and native performance across multiple platforms."
       },
       {
         "title": "React Native Development",
-        "link": "/react-native-development",
+        "link": "/react-native-development-company",
         "description": "Harnessing the power of Facebook's React Native framework to build cross-platform mobile apps with a single codebase, combining the efficiency of web development with the performance of native apps."
       }
     ],
@@ -731,37 +731,37 @@
         "name": "React",
         "image":"/images/tech/t32.svg",
         "category": "Development",
-        "link": "/react-development"
+        "link": "/react-development-company"
       },
       {
         "name": "Node",
         "image":"/images/tech/t35.svg",
         "category": "Development",
-        "link": "/node-development"
+        "link": "/node-development-company"
       },
       {
         "name": "Angular",
         "image":"/images/tech/t33.svg",
         "category": "Development",
-        "link": "/angular-development"
+        "link": "/angular-development-company"
       },
       {
         "name": "Vue",
         "image":"/images/tech/t34.svg",
         "category": "Development",
-        "link": "/vue-development"
+        "link": "/vue-development-company"
       },
       {
         "name": "Python",
         "image":"/images/tech/t1.png",
         "category": "Development",
-        "link": "/python-development"
+        "link": "/python-development-company"
       },
       {
         "name": "Wordpress",
         "image":"/images/tech/t38.png",
         "category": "Development",
-        "link": "/wordpress-development"
+        "link": "/wordpress-development-company"
       }
     ],    "whyContent": [
     {
@@ -829,17 +829,17 @@
     "details": [
       {
         "title": "UI Design",
-        "link": "/ui-design",
+        "link": "/ui-design-company",
         "description": "Creating visually stunning and intuitive user interfaces (UI) that captivate users and communicate your brand identity effectively, ensuring consistency, clarity, and ease of use across all digital touchpoints."
       },
       {
         "title": "UX Strategy",
-        "link": "/ux-strategy",
+        "link": "/ux-strategy-company",
         "description": "Developing comprehensive UX strategies that align with your business goals and user needs, including user research, persona development, user journey mapping, and usability testing, to inform and guide the design process."
       },
       {
         "title": "Prototype",
-        "link": "/prototype",
+        "link": "/prototype-company",
         "description": "Building interactive prototypes and wireframes to visualize and validate design concepts, functionalities, and user interactions, facilitating collaboration, feedback, and iteration throughout the design process."
       },
       {
@@ -991,32 +991,32 @@
     "details": [
       {
         "title": "React.js Development",
-        "link": "/react-development",
+        "link": "/react-development-company",
         "description": "Leveraging the power of React.js, we build interactive and dynamic web applications with fast rendering and seamless user experiences, catering to modern web development needs."
       },
       {
         "title": "Angular.js Development",
-        "link": "/angular-development",
+        "link": "/angular-development-company",
         "description": "Developing robust and scalable web applications using Angular.js framework, ensuring maintainability, flexibility, and performance for complex enterprise solutions."
       },
       {
         "title": "Node.js Development",
-        "link": "/node-development",
+        "link": "/node-development-company",
         "description": "Creating lightweight and efficient web servers and backend APIs using Node.js runtime environment, facilitating real-time data exchange, scalability, and versatility for web applications."
       },
       {
         "title": "Vue.js Development",
-        "link": "/vue-development",
+        "link": "/vue-development-company",
         "description": "Building progressive and reactive web applications with Vue.js framework, offering simplicity, flexibility, and performance for front-end development projects of any scale."
       },
       {
         "title": "Python Development",
-        "link": "/python-development",
+        "link": "/python-development-company",
         "description": "Harnessing the versatility and simplicity of Python programming language for web development, including Django and Flask frameworks, to create secure, scalable, and maintainable web applications."
       },
       {
         "title": "WordPress Development",
-        "link": "/wordpress-development",
+        "link": "/wordpress-development-company",
         "description": "Customizing and extending WordPress CMS platform to create bespoke websites, blogs, and e-commerce stores with intuitive content management, flexibility, and scalability."
       }
     ],
@@ -1167,42 +1167,42 @@
     "details": [
       {
         "title": "Desktop Software Development",
-        "link": "/desktop-app",
+        "link": "/desktop-app-company",
         "description": "Building robust and scalable desktop applications tailored to your business needs, whether it's for internal use, customer-facing applications, or specialized industry solutions."
       },
       {
         "title": "Customer Relationship Management (CRM) Software",
-        "link": "/customer-relationship-management",
+        "link": "/customer-relationship-management-company",
         "description": "Developing custom CRM solutions to manage customer interactions, streamline sales and marketing processes, and enhance customer satisfaction and loyalty."
       },
       {
         "title": "Inventory Management Software Development",
-        "link": "/inventory-management",
+        "link": "/inventory-management-company",
         "description": "Creating customized inventory management systems to track and manage inventory levels, orders, shipments, and supply chain operations efficiently and accurately."
       },
       {
         "title": "Accounting Software Development",
-        "link": "/accounting",
+        "link": "/accounting-company",
         "description": "Designing bespoke accounting software solutions to automate financial processes, manage budgets, track expenses, and generate reports for improved financial management and decision-making."
       },
       {
         "title": "Enterprise Resource Planning (ERP) Software",
-        "link": "/enterprise-resource-planning",
+        "link": "/enterprise-resource-planning-company",
         "description": "Developing comprehensive ERP systems to integrate and streamline business processes across departments, including finance, human resources, supply chain, and manufacturing."
       },
       {
         "title": "Human Resource Management (HRM) Software",
-        "link": "/human-resource-management",
+        "link": "/human-resource-management-company",
         "description": "Building customized HRM solutions to streamline HR processes, including recruitment, onboarding, performance management, training, and employee engagement."
       },
       {
         "title": "Business Intelligence (BI) Software",
-        "link": "/business-intelligence",
+        "link": "/business-intelligence-company",
         "description": "Designing custom BI solutions to analyze and visualize data, gain actionable insights, and make informed business decisions to drive growth and competitive advantage."
       },
       {
         "title": "Supply Chain Management (SCM) Software",
-        "link": "/supply-chain-management",
+        "link": "/supply-chain-management-company",
         "description": "Developing tailored SCM solutions to optimize supply chain operations, including inventory management, procurement, logistics, and demand forecasting, for enhanced efficiency and cost savings."
       }
     ],

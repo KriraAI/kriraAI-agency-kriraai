@@ -228,7 +228,6 @@ const Footer = () => {
                     >
                       AI services-company
                     </Link>
-                      <meta name="Top AI Development Services Company | Custom AI Solutions"  content="Looking for expert AI development services? Krira AI offers custom AI solutions, generative AI, and scalable platforms. Top AI services provider in India." />
                   </li>
                   <li>
                     <Link
