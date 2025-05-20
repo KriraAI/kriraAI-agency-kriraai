@@ -103,3 +103,7 @@ const ParallaxSectionItem = ({ service, index, isMobile }) => {
 };
 
 export default ParallaxSection;
+
+
+
+
