@@ -13,6 +13,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <head>
        <meta name="google-site-verification" content="76BefZIbh9iZtA3J2gPjl4QYw3TrIkhSPbMW8DCUf6o" />
        <meta name="Top AI Development Services Company | Custom AI Solutions" content="Looking for expert AI development services? Krira AI offers custom AI solutions, generative AI, and scalable platforms. Top AI services provider in India." />
+       <meta name="Best Data Science Service Company in India | Krira AI" content="Unlock data-driven success with Krira AI, the best data science service company in India offering expert analytics, consulting, and AI solutions." />
       {/* <!-- Google tag (gtag.js) --> */}
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-DZRC7KY0QJ"></script>
 <script>
