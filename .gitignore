@@ -1,1 +1,4 @@
 node_modules
+.next/
+update.sh/
+update.sh
