@@ -9,10 +9,10 @@ const teamMembers = [
     name: 'Divyang Mandani',
     position: 'Founder',
     image: '/images/team/person-1.jpg',
-    bio: 'Jane has over 10 years of ' +
-      'experience in customer relationship management and has been a key player in our team.'+
-      'He is passionate about helping businesses grow and is committed to delivering the best results for our clients.'+
-      'He is a strong leader and is dedicated to providing the best customer service possible.',
+    bio: 'Divyang Mandani is a visionary leader ' +
+      'with a passion for leveraging advanced AI and IT solutions to drive business success.'+
+      'With a proven track record in innovation and digital transformation, he is dedicated to supporting businesses with customized,'+
+      'high-impact technology strategies.',
   }
 ];
 
@@ -53,14 +53,28 @@ const TeamSection = () => {
                 {/*<p className="text-sm text-gray-600 mb-4">{member.position}</p>*/}
                 <p className="text-sm mt-16 mb-20 text-text-secondary">{member.bio}</p>
                 <div className="flex justify-center">
+                 <a href="https://www.linkedin.com/in/divyang-mandani-699877243" target="_blank" rel="noopener noreferrer">
+                <Button
+                 borderRadius="1.75rem"
+                 borderClassName="radial-gradient(#66cc66 10%, transparent 60%)"
+                  className="h-12 w-max rounded-full bg-[#0099cb] px-5 text-base font-semibold text-white duration-300 dark:bg-black/80 dark:text-white dark:hover:bg-dark/80 lg:grid"
+                 >
+                 LinkedIn Profile
+              </Button>
+               </a>
+                </div>
+
+                {/* <div className="flex justify-center">
+                  
                   <Button
                     borderRadius="1.75rem"
                     borderClassName="radial-gradient(#66cc66 10%, transparent 60%)"
+                    
                     className="h-12 w-max rounded-full bg-[#0099cb] px-5 text-base font-semibold text-white duration-300 dark:bg-black/80 dark:text-white dark:hover:bg-dark/80 lg:grid"
                   >
                     LinkedIn Profile
                   </Button>
-                </div>
+                </div> */}
               </div>
             </motion.div>
           </div>
