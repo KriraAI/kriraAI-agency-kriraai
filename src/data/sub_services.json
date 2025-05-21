@@ -1,7 +1,7 @@
 [
 
   {
-    "id": "chatbot-development",
+    "id": "chatbot-development-company",
     "category": "AI Services",
     "title": "Chatbot Development",
     "subtitle": "AI-Driven Chatbot Solutions",
@@ -206,7 +206,7 @@
     "getInTouch": "When you choose KriraAI for chatbot development, you are partnering with a leader in AI innovation. Our commitment to excellence and our client-centric approach ensure that your chatbot solutions are not only technologically advanced but also perfectly aligned with your business goals."
   },
   {
-    "id": "data-science",
+    "id": "data-science-company",
     "category": "AI Services",
     "title": "Data Science Solutions",
     "subtitle": "Advanced Data Analytics and Machine Learning",
@@ -399,7 +399,7 @@
     "getInTouch": "Ready to harness the power of data for your business? Contact us today to discuss your data science needs and learn how KriraAI can help you unlock valuable insights and drive success through advanced analytics and machine learning."
   },
   {
-    "id": "computer-vision",
+    "id": "computer-vision-company",
     "category": "AI Services",
     "title": "Computer Vision",
     "subtitle": "Advanced Computer Vision Solutions",
@@ -572,7 +572,7 @@
     "getInTouch": "Choosing KriraAI means partnering with a leader in computer vision innovation. Our commitment to excellence and focus on delivering high-quality, custom solutions ensure that your business harnesses the full power of visual data. Trust KriraAI to be your ultimate partner for computer vision services, and experience the transformative impact of advanced AI technology."
   },
   {
-    "id": "deep-learning",
+    "id": "deep-learning-company",
     "category": "AI Services",
     "title": "Deep Learning Expertise",
     "subtitle": "Cutting-Edge Deep Learning Solutions",
@@ -713,7 +713,7 @@
     "getInTouch": "With KriraAI, you gain more than just a service provider; you gain a strategic partner committed to elevating your business through deep learning. Our relentless pursuit of excellence and innovation ensures that we deliver solutions that are second to none. Trust KriraAI to be your ultimate choice for deep learning, and experience the transformative power of AI like never before."
   },
   {
-    "id": "natural-language-processing",
+    "id": "natural-language-processing-company",
     "category": "AI Services",
     "title": "Natural Language Processing",
     "subtitle": "State-of-the-Art NLP Solutions",
@@ -866,7 +866,7 @@
     "getInTouch": "Choosing KriraAI means partnering with a leader in NLP innovation. Our commitment to excellence and focus on delivering bespoke, high-quality solutions ensures that your business benefits from the full potential of NLP. Trust KriraAI to be your definitive partner for all your NLP needs, and experience the difference that expert-driven, custom-tailored NLP solutions can make."
   },
   {
-    "id": "machine-learning",
+    "id": "machine-learning-company",
     "category": "AI Services",
     "title": "Machine Learning Expertise",
     "subtitle": "Cutting-Edge Machine Learning Solutions",
@@ -1015,7 +1015,7 @@
   },
 
   {
-    "id": "packaging-design",
+    "id": "packaging-design-company",
     "category": "Branding",
     "title": "Packaging Design",
     "subtitle": "Exceptional Packaging Design Services",
@@ -1162,7 +1162,7 @@
     }
   },
   {
-    "id": "motion-design",
+    "id": "motion-design-company",
     "category": "Branding",
     "title": "Motion Design",
     "subtitle": "Captivating Motion Design Services",
@@ -1361,7 +1361,7 @@
     }
   },
   {
-    "id": "social-media-design",
+    "id": "social-media-design-company",
     "category": "Branding",
     "title": "Social Media Design",
     "subtitle": "Exceptional Social Media Design Services",
@@ -1564,7 +1564,7 @@
     }
   },
   {
-    "id": "promotion-banner",
+    "id": "promotion-banner-company",
     "category": "Branding",
     "title": "Promotion Banner Design",
     "subtitle": "Top-Notch Promotion Banner Design Services",
@@ -1712,7 +1712,7 @@
   },
 
   {
-    "id": "devops",
+    "id": "devops-company",
     "title": "DevOps Solutions",
     "subtitle": "Seamless and Scalable DevOps Services",
     "description": "Welcome to KriraAI's DevOps services, where we specialize in empowering businesses with seamless, efficient, and scalable software development and deployment processes. With our expertise in DevOps practices and technologies, we enable organizations to accelerate innovation, improve collaboration, and drive continuous delivery of high-quality software solutions.",
@@ -1846,7 +1846,7 @@
     }
   },
   {
-    "id": "mlops",
+    "id": "mlops-company",
     "title": "MLOps Solutions",
     "subtitle": "Streamline Development, Deployment, and Management of ML Models",
     "description": "Welcome to KriraAI's MLOps services, where we combine the power of machine learning (ML) with the efficiency of DevOps to streamline the development, deployment, and management of ML models. With our expertise in MLOps practices and technologies, we empower organizations to accelerate innovation, improve model performance, and drive real-world impact.",
@@ -1977,7 +1977,7 @@
   },
 
   {
-    "id": "data-analysis",
+    "id": "data-analysis-company",
     "title": "Data Analysis Services",
     "subtitle": "Unlocking Insights for Strategic Growth",
     "description": "Welcome to KriraAI's Data Analysis Services, where we unlock the insights hidden within your data to drive informed decision-making and strategic growth for your business. Harnessing the power of cutting-edge technologies and analytical expertise, we empower organizations across various industries to extract actionable intelligence from their data assets.",
@@ -2107,7 +2107,7 @@
     }
   },
   {
-    "id": "database-management",
+    "id": "database-management-company",
     "title": "Database Management Services",
     "subtitle": "Cutting-Edge Database Management Solutions",
     "description": "Welcome to KriraAI, where we specialize in providing cutting-edge database management solutions to empower your business operations. In today's data-driven world, efficient management of data is crucial for driving growth, making informed decisions, and staying ahead of the competition. With our expertise in database technologies and a commitment to excellence, we offer comprehensive services tailored to meet your unique needs.",
@@ -2233,7 +2233,7 @@
     }
   },
   {
-    "id": "web-scraping",
+    "id": "web-scraping-company",
     "title": "Web Scraping Services",
     "subtitle": "Professional and SEO-Friendly Web Scraping Services",
     "description": "Welcome to KriraAI, your premier destination for professional and SEO-friendly web scraping services. Our expertise in web scraping technologies combined with a dedication to delivering high-quality results makes us the ideal partner for extracting valuable data from the vast expanse of the internet.",
@@ -2352,7 +2352,7 @@
   },
 
   {
-    "id": "flutter-development",
+    "id": "flutter-development-company",
     "title": "Flutter Development",
     "subtitle": "Cross-Platform Flutter App Development Solutions",
     "description": "Welcome to KriraAI, your trusted partner for Flutter app development solutions. As businesses strive to reach users across multiple platforms, the demand for cross-platform development tools has never been greater. At KriraAI, we specialize in harnessing the power of Flutter to create stunning, native-like applications that run seamlessly on both Android and iOS devices. With our expertise and commitment to excellence, we help businesses drive innovation, maximize their reach, and achieve their goals.",
@@ -2502,7 +2502,7 @@
     }
   },
   {
-    "id": "android-development",
+    "id": "android-development-company",
     "title": "Android App Development",
     "subtitle": "Leading Android App Development Company for Custom, High-Performance Solutions.",
     "description": "Welcome to KriraAI, your premier destination for expert Android app development services. At KriraAI, we understand the importance of harnessing the power of the Android platform to reach a wider audience and maximize your business potential. With a team of seasoned developers and a passion for innovation, we specialize in crafting high-performance, user-centric Android applications that elevate your brand and drive success.",
@@ -2664,7 +2664,7 @@
     }
   },
   {
-    "id": "react-native-development",
+    "id": "react-native-development-company",
     "title": "React Native Development",
     "subtitle": "Cross-Platform React Native App Development Solutions",
     "description": "Welcome to KriraAI, your trusted partner for React Native app development solutions. As businesses seek to innovate and expand their digital presence, the demand for cross-platform development tools has never been greater. At KriraAI, we specialize in harnessing the power of React Native to create high-quality, cross-platform applications that run seamlessly on both iOS and Android devices. With our expertise and commitment to excellence, we help businesses drive innovation, maximize their reach, and achieve their goals in the ever-evolving digital landscape.",
@@ -2822,7 +2822,7 @@
     }
   },
   {
-    "id": "ios-development",
+    "id": "ios-development-company",
     "title": "iOS App Development",
     "subtitle": "Bespoke iOS App Development Services",
     "description": "Welcome to KriraAI, your premier destination for bespoke iOS app development services. As a leading provider of innovative digital solutions, we specialize in crafting immersive, user-friendly applications that resonate with Apple users worldwide. With a team of seasoned iOS developers and a passion for excellence, we help businesses elevate their brand, drive engagement, and achieve their goals on the iOS platform.",
@@ -2985,7 +2985,7 @@
   },
 
   {
-    "id": "prototype",
+    "id": "prototype-company",
     "title": "Prototype Services",
     "subtitle": "Interactive and High-Fidelity Prototypes",
     "description": "Welcome to KriraAI's Prototype Services, where we bring your ideas to life through interactive and high-fidelity prototypes that offer a tangible preview of your digital products. At KriraAI, we believe that prototyping is a critical step in the design process, enabling you to visualize, test, and refine your concepts before development begins.",
@@ -3115,7 +3115,7 @@
     }
   },
   {
-    "id": "ui-design",
+    "id": "ui-design-company",
     "title": "UI Design Services",
     "subtitle": "Crafting Visually Stunning and User-Centric Interfaces",
     "description": "Welcome to KriraAI's UI Design Services, where we blend creativity with functionality to craft visually stunning and user-centric interfaces that captivate audiences and elevate user experiences. At KriraAI, we understand that exceptional UI design is more than just aesthetics - it's about creating intuitive, engaging, and memorable interactions that leave a lasting impression.",
@@ -3241,7 +3241,7 @@
     }
   },
   {
-    "id": "wireframe-design",
+    "id": "wireframe-design-company",
     "title": "Wireframe Design Services",
     "subtitle": "Laying the Foundation for Successful Digital Products",
     "description": "Welcome to KriraAI's Wireframe Design Services, where we lay the foundation for successful digital products by creating clear and intuitive wireframes that map out the structure and functionality of your project. At KriraAI, we understand that wireframing is a crucial step in the design process, providing a visual guide that outlines the skeletal framework of your digital interface.",
@@ -3363,7 +3363,7 @@
     }
   },
   {
-    "id": "ux-strategy",
+    "id": "ux-strategy-company",
     "title": "UX Strategy Services",
     "subtitle": "Holistic and Impactful User Experiences",
     "description": "Welcome to KriraAI's UX Strategy Services, where we combine user insights, business objectives, and design principles to create holistic and impactful user experiences that drive business success. At KriraAI, we believe that user experience (UX) is not just a design discipline but a strategic imperative that shapes the overall perception and success of your digital products and services.",
@@ -3490,7 +3490,7 @@
   },
 
   {
-    "id": "angular-development",
+    "id": "angular-development-company",
     "title": "Angular.js Development",
     "subtitle": "Dynamic, Interactive Web Applications with Angular.js",
     "description": "Welcome to KriraAI, your trusted partner for Angular.js development services. Angular.js is a powerful framework for building dynamic, interactive web applications, and at KriraAI, we specialize in harnessing its full potential to deliver exceptional results for our clients. With a team of experienced developers and a passion for innovation, we help businesses of all sizes create immersive, feature-rich web experiences that engage users, drive conversions, and achieve their goals.",
@@ -3624,7 +3624,7 @@
     }
   },
   {
-    "id": "node-development",
+    "id": "node-development-company",
     "title": "Node.js Development",
     "subtitle": "High-Performance Node.js Development Services",
     "description": "Welcome to KriraAI, your trusted partner for Node.js development services. Node.js is a powerful, scalable, and efficient runtime environment that allows developers to build fast, scalable network applications. At KriraAI, we specialize in harnessing the full potential of Node.js to deliver innovative, high-performance solutions that meet our clients' unique needs and objectives.",
@@ -3762,7 +3762,7 @@
     }
   },
   {
-    "id": "python-development",
+    "id": "python-development-company",
     "title": "Python Development",
     "subtitle": "Innovative and High-Quality Python Solutions",
     "description": "Welcome to KriraAI, your premier destination for Python development services. Python is a versatile and powerful programming language used by developers worldwide to build a wide range of applications, from web applications to data analysis tools to artificial intelligence solutions. At KriraAI, we specialize in harnessing the full potential of Python to deliver innovative, high-quality solutions that meet our clients' unique needs and objectives.",
@@ -3900,7 +3900,7 @@
     }
   },
   {
-    "id": "react-development",
+    "id": "react-development-company",
     "title": "React.js Development",
     "subtitle": "Dynamic and Interactive React.js Solutions",
     "description": "Welcome to KriraAI, your go-to partner for React.js development solutions. React.js has revolutionized the way modern web applications are built, offering unparalleled performance, scalability, and flexibility. At KriraAI, we specialize in harnessing the power of React.js to create immersive, interactive user experiences that drive engagement and deliver results. With a team of experienced developers and a passion for innovation, we help businesses of all sizes leverage the full potential of React.js to stay ahead in today's competitive digital landscape.",
@@ -4038,7 +4038,7 @@
     }
   },
   {
-    "id": "vue-development",
+    "id": "vue-development-company",
     "title": "Vue.js Development",
     "subtitle": "Interactive and User-Friendly Web Interfaces with Vue.js",
     "description": "Welcome to KriraAI, your premier destination for Vue.js development services. Vue.js is a progressive JavaScript framework used by developers worldwide to build interactive, user-friendly web interfaces. At KriraAI, we specialize in harnessing the full potential of Vue.js to deliver innovative, high-quality solutions that meet our clients' unique needs and objectives.",
@@ -4172,7 +4172,7 @@
     }
   },
   {
-    "id": "wordpress-development",
+    "id": "wordpress-development-company",
     "title": "WordPress Development",
     "subtitle": "Innovative and High-Quality WordPress Solutions",
     "description": "Welcome to KriraAI, your trusted partner for WordPress development solutions. WordPress is the world's leading content management system, powering millions of websites across the globe. At KriraAI, we specialize in harnessing the full potential of WordPress to deliver innovative, high-quality solutions that meet our clients' unique needs and objectives.",
@@ -4307,7 +4307,7 @@
   },
 
   {
-    "id": "accounting",
+    "id": "accounting-company",
     "title": "Accounting Software Development",
     "subtitle": "Streamline Your Financial Management with Custom Accounting Software",
     "description": "Welcome to KriraAI, your trusted partner for professional accounting software development services. At KriraAI, we understand the critical role that accurate and efficient accounting plays in managing your business finances and facilitating informed decision-making. With our expertise in software development and commitment to excellence, we offer customized solutions that empower businesses to streamline their accounting processes, improve accuracy, and achieve greater financial control.",
@@ -4441,7 +4441,7 @@
     }
   },
   {
-    "id": "business-intelligence",
+    "id": "business-intelligence-company",
     "title": "Business Intelligence",
     "subtitle": "Cutting-Edge BI Software Solutions",
     "description": "Welcome to KriraAI, your premier destination for cutting-edge Business Intelligence (BI) software solutions. At KriraAI, we understand the importance of data-driven decision-making in today's competitive business landscape. With our expertise in software development and commitment to excellence, we offer powerful BI solutions that empower organizations to harness the full potential of their data, gain valuable insights, and drive strategic growth.",
@@ -4575,7 +4575,7 @@
     }
   },
   {
-    "id": "customer-relationship-management",
+    "id": "customer-relationship-management-company",
     "title": "Customer Relationship Management (CRM)",
     "subtitle": "Comprehensive CRM Solutions for Exceptional Customer Experiences",
     "description": "Welcome to KriraAI, your trusted partner for comprehensive Customer Relationship Management (CRM) solutions. At KriraAI, we understand the critical role that effective CRM plays in building and nurturing lasting relationships with your customers. With our expertise in CRM technologies and dedication to excellence, we offer customized solutions that empower your business to deliver exceptional customer experiences and drive sustainable growth.",
@@ -4713,7 +4713,7 @@
     }
   },
   {
-    "id": "desktop-app",
+    "id": "desktop-app-company",
     "title": "Desktop Software Development",
     "subtitle": "Professional Desktop Software Development Services",
     "description": "Welcome to KriraAI, your go-to partner for professional desktop software development services. At KriraAI, we recognize the importance of robust, high-performance desktop applications to streamline your business operations and enhance productivity. With a team of experienced developers and a drive for innovation, we specialize in creating custom desktop solutions tailored to meet your specific business needs.",
@@ -4863,7 +4863,7 @@
     }
   },
   {
-    "id": "enterprise-resource-planning",
+    "id": "enterprise-resource-planning-company",
     "title": "Enterprise Resource Planning (ERP) Software",
     "subtitle": "Comprehensive ERP Solutions for Streamlined Business Operations",
     "description": "Welcome to KriraAI, your trusted partner for comprehensive Enterprise Resource Planning (ERP) software solutions. At KriraAI, we understand the challenges businesses face in managing various aspects of their operations, from finance and inventory to human resources and customer relationships. With our expertise in software development and commitment to excellence, we offer tailored ERP solutions that empower businesses to streamline processes, improve efficiency, and drive growth.",
@@ -4993,7 +4993,7 @@
     }
   },
   {
-    "id": "human-resource-management",
+    "id": "human-resource-management-company",
     "title": "Human Resource Management (HRM) Software",
     "subtitle": "Comprehensive HRM Software Solutions",
     "description": "Welcome to KriraAI, your trusted partner for comprehensive Human Resource Management (HRM) software solutions. At KriraAI, we understand that managing human resources effectively is crucial for the success of any organization. With our expertise in software development and commitment to excellence, we offer tailored HRM solutions that empower businesses to streamline HR processes, enhance employee engagement, and drive organizational growth.",
@@ -5131,7 +5131,7 @@
     }
   },
   {
-    "id": "inventory-management",
+    "id": "inventory-management-company",
     "title": "Inventory Management Software Development",
     "subtitle": "Streamline Your Inventory Processes with Custom Software Solutions",
     "description": "Welcome to KriraAI, your premier destination for professional inventory management software development services. At KriraAI, we recognize the importance of efficient inventory management in optimizing operations, reducing costs, and improving customer satisfaction. With our expertise in software development and dedication to excellence, we offer customized solutions that empower businesses to streamline their inventory processes and achieve greater efficiency.",
@@ -5269,7 +5269,7 @@
     }
   },
   {
-    "id": "supply-chain-management",
+    "id": "supply-chain-management-company",
     "title": "Supply Chain Management (SCM) Software",
     "subtitle": "Comprehensive SCM Software Solutions",
     "description": "Welcome to KriraAI, your trusted partner for comprehensive Supply Chain Management (SCM) software solutions. At KriraAI, we understand the complexities involved in managing supply chains effectively and efficiently. With our expertise in software development and commitment to excellence, we offer powerful SCM solutions that empower businesses to optimize their supply chain operations, improve visibility, and drive strategic growth.",
@@ -5403,7 +5403,7 @@
     }
   },
   {
-    "id": "marketing-automation",
+    "id": "marketing-automation-company",
     "title": "Marketing Automation Software",
     "subtitle": "Streamline Marketing Processes with Advanced Automation Solutions",
     "description": "Welcome to KriraAI, your trusted partner for cutting-edge Marketing Automation Software solutions. At KriraAI, we understand the importance of delivering targeted, personalized messages to your audience at the right time and through the right channels. With our expertise in software development and commitment to excellence, we offer powerful Marketing Automation solutions that empower businesses to streamline marketing processes, increase efficiency, and drive growth.",

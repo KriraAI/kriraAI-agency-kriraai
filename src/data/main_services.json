@@ -11,12 +11,12 @@
     
     "details": [
       {
-        "title": "Machine Learning",
+        "title": "Machine Learning", 
         "link": "/machine-learning-company",
         "description": "Predictive Analytics: Developing machine learning models to analyze historical data, identify patterns, and make accurate predictions about future outcomes."
-      },
-      {
-        "title": "Deep Learning",
+      }, 
+      {  
+        "title": "Deep Learning",   
         "link": "/deep-learning-company",
         "description": "Image Recognition: Training deep neural networks to recognize objects, faces, and patterns in images and videos for applications such as security, healthcare, and retail."
       },
@@ -47,7 +47,7 @@
         "image": "/images/work/w1.png",
         "link": "/"
       },
-      {
+      { 
         "title": "Project Two",
         "image": "/images/work/w2.png",
         "link": "/"
@@ -58,37 +58,37 @@
         "name": "React",
         "image":"/images/tech/t32.svg",
         "category": "Development",
-        "link": "/react-development-company"
+        "link": "/react-development"
       },
       {
         "name": "Node",
         "image":"/images/tech/t35.svg",
         "category": "Development",
-        "link": "/node-development-company"
+        "link": "/node-development"
       },
       {
         "name": "Angular",
         "image":"/images/tech/t33.svg",
         "category": "Development",
-        "link": "/angular-development-company"
+        "link": "/angular-development"
       },
       {
         "name": "Vue",
         "image":"/images/tech/t34.svg",
         "category": "Development",
-        "link": "/vue-development-company"
+        "link": "/vue-development"
       },
       {
         "name": "Python",
         "image":"/images/tech/t1.png",
         "category": "Development",
-        "link": "/python-development-company"
+        "link": "/python-development"
       },
       {
         "name": "Wordpress",
         "image":"/images/tech/t38.png",
         "category": "Development",
-        "link": "/wordpress-development-company"
+        "link": "/wordpress-development"
       }
     ],
     "ourProcess":  [
@@ -250,37 +250,37 @@
         "name": "React",
         "image":"/images/tech/t32.svg",
         "category": "Development",
-        "link": "/react-development-company"
+        "link": "/react-development"
       },
       {
         "name": "Node",
         "image":"/images/tech/t35.svg",
         "category": "Development",
-        "link": "/node-development-company"
+        "link": "/node-development"
       },
       {
         "name": "Angular",
         "image":"/images/tech/t33.svg",
         "category": "Development",
-        "link": "/angular-development-company"
+        "link": "/angular-development"
       },
       {
         "name": "Vue",
         "image":"/images/tech/t34.svg",
         "category": "Development",
-        "link": "/vue-development-company"
+        "link": "/vue-development"
       },
       {
         "name": "Python",
         "image":"/images/tech/t1.png",
         "category": "Development",
-        "link": "/python-development-company"
+        "link": "/python-development"
       },
       {
         "name": "Wordpress",
         "image":"/images/tech/t38.png",
         "category": "Development",
-        "link": "/wordpress-development-company"
+        "link": "/wordpress-development"
       }
     ],    "whyContent": [
     {
@@ -408,37 +408,37 @@
         "name": "React",
         "image":"/images/tech/t32.svg",
         "category": "Development",
-        "link": "/react-development-company"
+        "link": "/react-development"
       },
       {
         "name": "Node",
         "image":"/images/tech/t35.svg",
         "category": "Development",
-        "link": "/node-development-company"
+        "link": "/node-development"
       },
       {
         "name": "Angular",
         "image":"/images/tech/t33.svg",
         "category": "Development",
-        "link": "/angular-development-company"
+        "link": "/angular-development"
       },
       {
         "name": "Vue",
         "image":"/images/tech/t34.svg",
         "category": "Development",
-        "link": "/vue-development-company"
+        "link": "/vue-development"
       },
       {
         "name": "Python",
         "image":"/images/tech/t1.png",
         "category": "Development",
-        "link": "/python-development-company"
+        "link": "/python-development"
       },
       {
         "name": "Wordpress",
         "image":"/images/tech/t38.png",
         "category": "Development",
-        "link": "/wordpress-development-company"
+        "link": "/wordpress-development"
       }
     ],    "whyContent": [
     {
@@ -569,37 +569,37 @@
         "name": "React",
         "image":"/images/tech/t32.svg",
         "category": "Development",
-        "link": "/react-development-company"
+        "link": "/react-development"
       },
       {
         "name": "Node",
         "image":"/images/tech/t35.svg",
         "category": "Development",
-        "link": "/node-development-company"
+        "link": "/node-development"
       },
       {
         "name": "Angular",
         "image":"/images/tech/t33.svg",
         "category": "Development",
-        "link": "/angular-development-company"
+        "link": "/angular-development"
       },
       {
         "name": "Vue",
         "image":"/images/tech/t34.svg",
         "category": "Development",
-        "link": "/vue-development-company"
+        "link": "/vue-development"
       },
       {
         "name": "Python",
         "image":"/images/tech/t1.png",
         "category": "Development",
-        "link": "/python-development-company"
+        "link": "/python-development"
       },
       {
         "name": "Wordpress",
         "image":"/images/tech/t38.png",
         "category": "Development",
-        "link": "/wordpress-development-company"
+        "link": "/wordpress-development"
       }
     ],    "whyContent": [
     {
@@ -731,37 +731,37 @@
         "name": "React",
         "image":"/images/tech/t32.svg",
         "category": "Development",
-        "link": "/react-development-company"
+        "link": "/react-development"
       },
       {
         "name": "Node",
         "image":"/images/tech/t35.svg",
         "category": "Development",
-        "link": "/node-development-company"
+        "link": "/node-development"
       },
       {
         "name": "Angular",
         "image":"/images/tech/t33.svg",
         "category": "Development",
-        "link": "/angular-development-company"
+        "link": "/angular-development"
       },
       {
         "name": "Vue",
         "image":"/images/tech/t34.svg",
         "category": "Development",
-        "link": "/vue-development-company"
+        "link": "/vue-development"
       },
       {
         "name": "Python",
         "image":"/images/tech/t1.png",
         "category": "Development",
-        "link": "/python-development-company"
+        "link": "/python-development"
       },
       {
         "name": "Wordpress",
         "image":"/images/tech/t38.png",
         "category": "Development",
-        "link": "/wordpress-development-company"
+        "link": "/wordpress-development"
       }
     ],    "whyContent": [
     {
@@ -1501,3 +1501,4 @@
     }
   }
 ]
+

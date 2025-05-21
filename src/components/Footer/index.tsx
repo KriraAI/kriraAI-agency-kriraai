@@ -27,8 +27,8 @@ const Footer = () => {
                     Trusted Partner for Innovative IT Solutions & Business Success.
                   </p>
                   <div className="flex items-center">
-                    <a
-                      href="https://www.facebook.com/people/Kriraai/61557460204334/"
+                    {/* <a
+                      href="#"
                       aria-label="social-link"
                       target="_blank"
                       rel="noopener noreferrer"
@@ -46,7 +46,7 @@ const Footer = () => {
                           fill="currentColor"
                         />
                       </svg>
-                    </a>
+                    </a> */}
                     <a
                       href="https://x.com/KriraAI"
                       aria-label="social-link"
@@ -231,7 +231,7 @@ const Footer = () => {
                   </li>
                   <li>
                     <Link
-                      href="/web-development"
+                      href="/web-development-company"
                       className="mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:text-body-color-dark dark:hover:text-primary"
                     >
                       Web Development

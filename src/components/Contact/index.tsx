@@ -11,11 +11,11 @@ const Contact = () => {
               className="mb-12 rounded-xl bg-gradient-to-b from-slate-200 to-white dark:from-dark dark:to-total-black px-8 py-11 shadow-three sm:p-[55px] lg:mb-5 lg:px-8 xl:p-[55px]"
               data-wow-delay=".15s"
             >
-              <h2 className="mb-3 text-2xl font-bold text-black dark:text-white sm:text-3xl lg:text-2xl xl:text-3xl">
+              <h1 className="mb-3 text-2xl font-bold text-black dark:text-white sm:text-3xl lg:text-2xl xl:text-3xl">
                 Contact Us
-              </h2>
+              </h1>
               <p className="mb-12 text-base font-medium text-body-color">
-                Our support team will get back to you ASAP via email.
+                Our support team will get back to you ASAP.
               </p>
               <ContactForm />
             </div>
@@ -32,7 +32,7 @@ const Contact = () => {
                 <h3 className="mb-4 text-xl text-metatitle3 font-medium text-black dark:text-white">
                   Our Loaction
                 </h3>
-                <p className="text-slate-500 md:m-0 xxs:mr-12 xs:mr-12">434, Creation plaza, Bombay market road, Surat, India 395010</p>
+                <p className="text-slate-500 md:m-0 xxs:mr-12 xs:mr-12">C2-1315, Pragati IT Park, Mota Varachha, Surat, Gujarat 394101</p>
               </div>
               <div className="5 mb-7">
                 <h3 className="mb-4 text-metatitle3 text-xl font-medium text-black dark:text-white">
