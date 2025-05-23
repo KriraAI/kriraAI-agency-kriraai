@@ -27,11 +27,11 @@ const Hero = () => {
                 </AnimatedGradientText>
                 <h1
                   className="mb-5 mt-8 text-2xl font-bold leading-tight text-black dark:text-white xs:text-2xl xs:leading-tight md:text-3xl md:leading-tight">
-                  Best AI Development services for
+                  Best AI Development Services For
                   <span>
                     <div className={" bg-total-black p-1 xxs:mx-4 xs:mx-6 md:mx-28 my-4 rounded-2xl"}>
                     <TextGradientHeading size={"text-6xl xxs:text-4xl md:text-5xl xs:text-4xl mb-4"}
-                                         text={"inovative it solution"} />
+                                         text={"Innovative IT Solutions"} />
 
                   </div>
                   </span>
@@ -60,7 +60,7 @@ const Hero = () => {
                       borderClassName="radial-gradient(var(--sky-400) 40%, transparent 90%)"
                       className=" w-52 inline-block border border-dark/40 rounded-full bg-primary/5 px-0 py-3 text-base font-semibold text-stroke-dark duration-300 ease-in-out dark:bg-white/0 dark:text-white dark:hover:bg-dark/80"
                     >
-                      Book a call
+                      Book a Call
                     </Button>
                   </Link>
                 </div>

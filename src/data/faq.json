@@ -1,7 +1,7 @@
 {
   "General": [
     {
-      "question": "What is KriraAI, and what services do you offer?",
+      "question": "What is AI development and how can it benefit my business?",
       "answer": "KriraAI is a comprehensive IT solutions provider offering services such as AI, mobile app development, web development, data and analytics, UI/UX design, branding, custom software development, cloud services, and tech consultancy."
     },
     {
@@ -19,6 +19,11 @@
     {
       "question": "How can I ensure that KriraAI's solutions will meet my business needs?",
       "answer": "We work closely with you to understand your specific requirements and goals. Our team of experts develops tailored solutions to ensure they align perfectly with your business needs and objectives."
+    },
+    {
+      "question": "What is AI development and how can it benefit my business?",
+      "answer": "The development of intelligent software that can evaluate data, recognize patterns, and make decisions is known as artificial intelligence (AI) development. It assists companies in increasing productivity, cutting expenses, and automating processes"
     }
+    
   ]
 }

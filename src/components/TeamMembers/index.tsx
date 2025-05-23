@@ -53,7 +53,7 @@ const TeamSection = () => {
                 {/*<p className="text-sm text-gray-600 mb-4">{member.position}</p>*/}
                 <p className="text-sm mt-16 mb-20 text-text-secondary">{member.bio}</p>
                 <div className="flex justify-center">
-                 <a href="https://www.linkedin.com/in/divyang-mandani-699877243" target="_blank" rel="noopener noreferrer">
+                 <a href="https://www.linkedin.com/in/divyang-mandani" target="_blank" rel="noopener noreferrer">
                 <Button
                  borderRadius="1.75rem"
                  borderClassName="radial-gradient(#66cc66 10%, transparent 60%)"

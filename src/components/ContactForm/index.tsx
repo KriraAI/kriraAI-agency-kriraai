@@ -3,6 +3,8 @@ import { useState } from 'react';
 import { collection, addDoc } from 'firebase/firestore';
 import { db } from "../../../firebaseConfig";
 
+
+
 const ContactForm = () => {
   const [formData, setFormData] = useState({
     name: '',
@@ -94,7 +96,7 @@ const ContactForm = () => {
             <input
               type="text"
               name="phone"
-              placeholder="+1 (650) 131 7825"
+              placeholder="+91 (520) 534 5443"
               className="border-stroke w-full rounded-xl border bg-[#f8f8f8] px-6 py-3 text-base text-body-color outline-none focus:border-primary dark:border-transparent dark:bg-[#2C303B] dark:text-body-color-dark dark:shadow-two dark:focus:border-primary dark:focus:shadow-none"
               value={formData.phone}
               onChange={handleChange}

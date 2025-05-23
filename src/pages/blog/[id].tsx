@@ -7,6 +7,7 @@ import { SiteBlog } from "@/types/blog";
 import GetInTouch from "@/components/GetInTouch";
 import React from "react";
 import Head from "next/head";
+import ErrorPage from "@/app/not-found";
 
 type BlogDetailsPageProps = {
   blog: SiteBlog | null;
@@ -14,18 +15,16 @@ type BlogDetailsPageProps = {
 
 const BlogDetailsPage: React.FC<BlogDetailsPageProps> = ({ blog }) => {
   if (!blog) {
-    return <p>No blog found.</p>;
+    return <ErrorPage />;
   }
 
   return (
     <>
       <Head>
         <title>{blog.title} - KriraAI</title>
-        <meta name="Best AI Development Company in India | Krira AI" content="Krira AI is a Best AI development company in India offering cutting-edge generative AI development services. Let's build the future with AI together." />
         <meta name="description" content={blog.description} />
         <meta property="og:title" content={`${blog.title} - Your Company Name`} />
         <meta property="og:description" content={blog.description} />
-        <meta name="google-site-verification" content="76BefZIbh9iZtA3J2gPjl4QYw3TrIkhSPbMW8DCUf6o" />
       </Head>
       <section className="pb-[120px] pt-[150px] bg-white dark:bg-total-black">
         <div className="container">

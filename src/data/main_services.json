@@ -1,22 +1,24 @@
 [
   {
     "id": "ai-services-company",
+    "head": "Top AI Services & Solutions | AI Consulting & Development",
     "category": "AI Services",
-    "title": "AI Services",
-    "subtitle": "Cutting-Edge AI Solutions",
-    "description": "Welcome to KriraAI, your ultimate destination for cutting-edge Artificial Intelligence (AI) services. At KriraAI, we harness the power of AI to drive innovation, solve complex challenges, and unlock new opportunities for businesses across industries. With our expertise in AI technologies and commitment to excellence, we offer comprehensive AI services that empower organizations to leverage data-driven insights, automate processes, and enhance decision-making.",
+    "title": "Innovative AI Services for Business Success",
+    "metaTitle": "Top AI Development Services Company | Custom AI Solutions",
+    "metaDescription": "Looking for expert AI development services? KriraAI offers custom AI solutions, generative AI, and scalable platforms. Top AI services provider in India.",
+    "subtitle": "Transform Your Business with Advanced AI Solutions: Machine Learning, NLP, Computer Vision, and More",
+    "description": "Discover KriraAI's AI services, including machine learning, NLP, and computer vision, to drive innovation and business growth. Contact us for expert AI consulting today.",
     "image": "/images/service/ai_services.svg",
     "serviceDescription": "At KriraAI, we take a strategic approach to AI services, focusing on understanding your organization's unique needs, objectives, and constraints. Whether you're looking to enhance customer experience, optimize operations, or drive business growth, we work closely with you to develop tailored AI solutions that address your specific challenges and deliver measurable results.",
     "ourWork": "category=AI+Services",
-    
     "details": [
       {
-        "title": "Machine Learning", 
+        "title": "Machine Learning",
         "link": "/machine-learning-company",
         "description": "Predictive Analytics: Developing machine learning models to analyze historical data, identify patterns, and make accurate predictions about future outcomes."
-      }, 
-      {  
-        "title": "Deep Learning",   
+      },
+      {
+        "title": "Deep Learning",
         "link": "/deep-learning-company",
         "description": "Image Recognition: Training deep neural networks to recognize objects, faces, and patterns in images and videos for applications such as security, healthcare, and retail."
       },
@@ -47,7 +49,7 @@
         "image": "/images/work/w1.png",
         "link": "/"
       },
-      { 
+      {
         "title": "Project Two",
         "image": "/images/work/w2.png",
         "link": "/"
@@ -58,37 +60,37 @@
         "name": "React",
         "image":"/images/tech/t32.svg",
         "category": "Development",
-        "link": "/react-development"
+        "link": "/react-development-company"
       },
       {
         "name": "Node",
         "image":"/images/tech/t35.svg",
         "category": "Development",
-        "link": "/node-development"
+        "link": "/node-development-company"
       },
       {
         "name": "Angular",
         "image":"/images/tech/t33.svg",
         "category": "Development",
-        "link": "/angular-development"
+        "link": "/angular-development-company"
       },
       {
         "name": "Vue",
         "image":"/images/tech/t34.svg",
         "category": "Development",
-        "link": "/vue-development"
+        "link": "/vue-development-company"
       },
       {
         "name": "Python",
         "image":"/images/tech/t1.png",
         "category": "Development",
-        "link": "/python-development"
+        "link": "/python-development-company"
       },
       {
         "name": "Wordpress",
         "image":"/images/tech/t38.png",
         "category": "Development",
-        "link": "/wordpress-development"
+        "link": "/wordpress-development-company"
       }
     ],
     "ourProcess":  [
@@ -169,13 +171,15 @@
     ],
     "getInTouch": "Ready to harness the power of AI and transform your business? Contact us today to schedule a consultation and discover how KriraAI can help you leverage AI to drive innovation, automate processes, and unlock new opportunities."
   },
-  
   {
     "id": "branding-company",
     "category": "Branding",
-    "title": "Brand Identity",
-    "subtitle": "Creating a Powerful and Cohesive Brand Identity",
-    "description": "Welcome to KriraAI, your trusted partner in creating a powerful and cohesive brand identity. At KriraAI, we understand that a strong brand identity is the cornerstone of any successful business. Our dedicated team of branding experts is passionate about helping you define and communicate your brand's unique personality, values, and vision. With a meticulous approach and a commitment to excellence, we craft compelling brand identities that resonate with your target audience and elevate your market presence.",
+    "head":"Branding Services for Startups and Businesses",
+    "title": "Expert Branding Solutions",
+    "subtitle": "Building Unique Brand Identities for Business Growth",
+    "metaTitle": "",
+    "metaDescription": "",
+    "description": "Elevate your brand with KriraAI's expert branding services tailored for startups and businesses. From logo design to digital branding, enhance your presence and attract customers. Explore our solutions now!",
     "image": "/images/service/branding.svg",
     "serviceDescription": "At KriraAI, we follow a comprehensive and collaborative approach to brand identity development. From initial concept to final execution, we work closely with our clients to ensure that every element of their brand identity aligns with their business goals and speaks directly to their audience. Our expertise in the latest branding strategies and design principles allows us to deliver exceptional results that set your brand apart in a competitive marketplace.",
     "ourWork": "category=all",
@@ -250,19 +254,19 @@
         "name": "React",
         "image":"/images/tech/t32.svg",
         "category": "Development",
-        "link": "/react-development"
+        "link": "/react-development-company"
       },
       {
         "name": "Node",
         "image":"/images/tech/t35.svg",
         "category": "Development",
-        "link": "/node-development"
+        "link": "/node-development-company"
       },
       {
         "name": "Angular",
         "image":"/images/tech/t33.svg",
         "category": "Development",
-        "link": "/angular-development"
+        "link": "/angular-development-company"
       },
       {
         "name": "Vue",
@@ -274,7 +278,7 @@
         "name": "Python",
         "image":"/images/tech/t1.png",
         "category": "Development",
-        "link": "/python-development"
+        "link": "/python-development-company"
       },
       {
         "name": "Wordpress",
@@ -341,9 +345,12 @@
   {
     "id": "cloud-services-company",
     "category": "Cloud Services",
-    "title": "Cloud Services",
-    "subtitle": "Cutting-Edge Cloud Solutions",
-    "description": "Welcome to KriraAI, your trusted partner for cutting-edge Cloud Services. In today's digital era, leveraging cloud technology is essential for businesses to drive innovation, agility, and scalability while reducing operational costs and complexity. At KriraAI, we specialize in providing comprehensive cloud solutions that empower businesses to harness the full potential of cloud computing and drive digital transformation.",
+    "head":"Cloud Services | Expert Cloud Consulting & Solutions",
+    "title": "Best Cloud Services and Consulting",
+    "subtitle": "Transform Your Business with Expert Cloud Consulting",
+    "metaTitle": "",
+    "metaDescription": "",
+    "description": "Explore KriraAI's expert cloud services including AWS cloud solutions, DevOps, MLOps, and microservices architecture. Partner with us for secure, scalable, and cost-effective cloud solutions tailored to your business needs.",
     "image": "/images/service/cloud_service.svg",
     "serviceDescription": "At KriraAI, we follow a strategic approach to cloud services, combining technical expertise, industry best practices, and a deep understanding of our clients' business needs to deliver tailored cloud solutions that align with their goals and objectives. Whether you're looking to migrate to the cloud, optimize your existing cloud infrastructure, or develop cloud-native applications, we have the expertise and experience to help you succeed in the cloud.",
     "ourWork": "category=all",
@@ -408,37 +415,37 @@
         "name": "React",
         "image":"/images/tech/t32.svg",
         "category": "Development",
-        "link": "/react-development"
+        "link": "/react-development-company"
       },
       {
         "name": "Node",
         "image":"/images/tech/t35.svg",
         "category": "Development",
-        "link": "/node-development"
+        "link": "/node-development-company"
       },
       {
         "name": "Angular",
         "image":"/images/tech/t33.svg",
         "category": "Development",
-        "link": "/angular-development"
+        "link": "/angular-development-company"
       },
       {
         "name": "Vue",
         "image":"/images/tech/t34.svg",
         "category": "Development",
-        "link": "/vue-development"
+        "link": "/vue-development-company"
       },
       {
         "name": "Python",
         "image":"/images/tech/t1.png",
         "category": "Development",
-        "link": "/python-development"
+        "link": "/python-development-company"
       },
       {
         "name": "Wordpress",
         "image":"/images/tech/t38.png",
         "category": "Development",
-        "link": "/wordpress-development"
+        "link": "/wordpress-development-company"
       }
     ],    "whyContent": [
     {
@@ -497,26 +504,29 @@
   {
     "id": "data-analytics-company",
     "category": "Data & Analytics",
-    "title": "Data & Analytics",
-    "subtitle": "Cutting-Edge Data & Analytics Solutions",
-    "description": "Welcome to KriraAI, your trusted partner for cutting-edge Data & Analytics solutions. In today's data-driven world, businesses have access to vast amounts of data that can provide valuable insights and drive informed decision-making. At KriraAI, we specialize in helping businesses unlock the full potential of their data through advanced analytics, machine learning, and artificial intelligence.",
+    "head":"Data & Analytics Services | Expert Data Analysis & Insights",
+    "title": "Advanced Data & Analytics Solutions",
+    "subtitle": "Unlock Business Insights with Advanced Data Analysis",
+    "metaTitle": "KriraAI - Top Data Analytics Company in India",
+    "metaDescription": "Expert data services to a leading data analytics company that helps businesses make better choices and grow using new insights and solutions. ",
+    "description": "Discover KriraAI's comprehensive data & analytics services including data analysis, business intelligence, AI-driven analytics, and more. Partner with us for tailored solutions that drive informed decisions.",
     "image": "/images/service/data_analysis.svg",
     "serviceDescription": "At KriraAI, we take a comprehensive approach to Data & Analytics, combining technical expertise, domain knowledge, and industry best practices to deliver tailored solutions that address our clients' specific business challenges and opportunities. Whether you're looking to harness the power of your data for predictive analytics, optimization, or business intelligence, we have the expertise and experience to help you succeed.",
     "ourWork": "category=all",
     "details": [
       {
         "title": "Web Scraping",
-        "link": "/web-scraping-company",
+        "link": "/web-scraping",
         "description": "Extracting data from websites and online sources to gather valuable insights, monitor competitors, and inform business decisions."
       },
       {
         "title": "Database Management",
-        "link": "/database-management-company",
+        "link": "/database-management",
         "description": "Designing, implementing, and managing databases to store, organize, and secure your data efficiently and effectively."
       },
       {
         "title": "Data Analysis",
-        "link": "/data-analysis-company",
+        "link": "/data-analysis",
         "description": "Applying statistical analysis, data mining, and visualization techniques to uncover patterns, trends, and correlations in your data and derive actionable insights."
       }
     ],
@@ -654,31 +664,34 @@
   {
     "id": "mobile-app-development-company",
     "category": "Mobile App Development",
-    "title": "Mobile App Development",
-    "subtitle": "Expert Mobile App Development Services",
-    "description": "Welcome to KriraAI, your premier destination for expert Mobile App Development services. In today's digital age, having a mobile presence is essential for reaching and engaging your target audience effectively. At KriraAI, we specialize in crafting innovative, user-centric mobile applications that empower businesses to thrive in the mobile-first world.",
+    "head":"Top Mobile App Development Company | Android, iOS & Cross-Platform Apps",
+    "title": "Expert Mobile App Development for Business Growth",
+    "subtitle": "Transform Your Business with Expert Mobile App Development: Android, iOS, Flutter, and React Native Solutions",
+    "metaTitle": "Top App Development Company in India | KriraAI",
+    "metaDescription": "Top app development company offering custom mobile & web app solutions. Scalable, secure, and innovative apps tailored to your business needs.",
+    "description": "Discover KriraAI's expert mobile app development services. We create innovative, user-centric Android, iOS, and cross-platform apps to elevate your brand and drive growth.",
     "image": "/images/service/mobile.svg",
     "serviceDescription": "At KriraAI, we adopt a comprehensive approach to mobile app development, ensuring that each app is meticulously designed and developed to deliver exceptional user experiences and drive business success. From concept to deployment, we collaborate closely with our clients to understand their unique requirements, goals, and target audience, leveraging the latest technologies and industry best practices to create high-performance, feature-rich mobile applications.",
     "ourWork": "category=Mobile+App+Development",
     "details": [
       {
         "title": "Android Development",
-        "link": "/android-development-company",
+        "link": "/android-development",
         "description": "Crafting native Android applications tailored to the specific requirements and preferences of the Android platform, ensuring optimal performance, compatibility, and user experience."
       },
       {
         "title": "iOS Development",
-        "link": "/ios-development-company",
+        "link": "/ios-development",
         "description": "Building elegant and intuitive native iOS applications for iPhones, iPads, and other Apple devices, leveraging the latest iOS SDKs and design guidelines to deliver seamless user experiences."
       },
       {
         "title": "Flutter Development",
-        "link": "/flutter-development-company",
+        "link": "/flutter-development",
         "description": "Developing cross-platform mobile applications using Google's Flutter framework, allowing for rapid development, code reusability, and native performance across multiple platforms."
       },
       {
         "title": "React Native Development",
-        "link": "/react-native-development-company",
+        "link": "/react-native-development",
         "description": "Harnessing the power of Facebook's React Native framework to build cross-platform mobile apps with a single codebase, combining the efficiency of web development with the performance of native apps."
       }
     ],
@@ -820,26 +833,29 @@
   {
     "id": "ui-ux-design-company",
     "category": "UI/UX Design",
-    "title": "UI/UX Design",
-    "subtitle": "Exceptional UI/UX Design Solutions",
-    "description": "Welcome to KriraAI, your trusted partner for exceptional UI/UX Design solutions. In today's digital landscape, user experience is paramount to the success of any digital product or service. At KriraAI, we specialize in creating intuitive, engaging, and visually appealing user interfaces (UI) and user experiences (UX) that delight users, drive engagement, and deliver results.",
+    "head":"UI/UX Design and Consulting  Services",
+    "title": "Best UI/UX Design and Consulting Services",
+    "subtitle": "Transforming User Experiences with Creative UI/UX Solutions",
+    "metaTitle": "Top UI/UX Design Company for Seamless Experiences",
+    "metaDescription": "Enhance user engagement with our expert UI/UX design services. We craft intuitive, user-focused digital experiences that drive results.",
+    "description": "Transform your digital presence with KriraAI's expert UI/UX design services. From intuitive user interfaces to engaging user experiences, discover why we're the best choice for expert design solutions.",
     "image": "/images/service/uiux.svg",
     "serviceDescription": "At KriraAI, we take a user-centric approach to UI/UX design, placing the needs, preferences, and behaviors of users at the forefront of our design process. Our team of talented designers and UX specialists combine creativity, empathy, and technical expertise to craft seamless and immersive digital experiences that resonate with users and exceed their expectations.",
     "ourWork": "category=UI/UX+Design",
     "details": [
       {
         "title": "UI Design",
-        "link": "/ui-design-company",
+        "link": "/ui-design",
         "description": "Creating visually stunning and intuitive user interfaces (UI) that captivate users and communicate your brand identity effectively, ensuring consistency, clarity, and ease of use across all digital touchpoints."
       },
       {
         "title": "UX Strategy",
-        "link": "/ux-strategy-company",
+        "link": "/ux-strategy",
         "description": "Developing comprehensive UX strategies that align with your business goals and user needs, including user research, persona development, user journey mapping, and usability testing, to inform and guide the design process."
       },
       {
         "title": "Prototype",
-        "link": "/prototype-company",
+        "link": "/prototype",
         "description": "Building interactive prototypes and wireframes to visualize and validate design concepts, functionalities, and user interactions, facilitating collaboration, feedback, and iteration throughout the design process."
       },
       {
@@ -982,41 +998,44 @@
   {
     "id": "web-development-company",
     "category": "Web Development",
-    "title": "Web Development",
-    "subtitle": "Expert Web Development Services",
-    "description": "Welcome to KriraAI, your trusted partner for expert Web Development services. In today's digital landscape, a strong online presence is crucial for businesses to engage with their audience, showcase their products or services, and drive growth. At KriraAI, we specialize in crafting custom web solutions that empower businesses to succeed in the competitive online marketplace.",
+    "head":"Custom Web Development Services | Top web development company",
+    "title": "Custom Web Development Solutions",
+    "subtitle": "Transform Your Business with Expert Web Development Services",
+    "metaTitle": "Best Custom Web Development Company | KriraaAI",
+    "metaDescription": "Professional web development company offering custom websites, eCommerce solutions, and web apps to grow your digital presence",
+    "description": "Discover KriraAI's custom web development services tailored to meet your business needs. We specialize in React.js, Angular.js, Next.js, Node.js, Vue.js, Python, and WordPress development.",
     "image": "/images/service/web_dev.svg",
     "serviceDescription": "At KriraAI, we follow a meticulous approach to web development, combining creativity, technical expertise, and industry best practices to deliver high-quality, scalable, and user-friendly websites. From concept to deployment, we collaborate closely with our clients to understand their unique business goals, target audience, and brand identity, ensuring that each website we create is tailored to their specific requirements and objectives.",
     "ourWork": "category=Web+Development",
     "details": [
       {
         "title": "React.js Development",
-        "link": "/react-development-company",
+        "link": "/react-development",
         "description": "Leveraging the power of React.js, we build interactive and dynamic web applications with fast rendering and seamless user experiences, catering to modern web development needs."
       },
       {
         "title": "Angular.js Development",
-        "link": "/angular-development-company",
+        "link": "/angular-development",
         "description": "Developing robust and scalable web applications using Angular.js framework, ensuring maintainability, flexibility, and performance for complex enterprise solutions."
       },
       {
         "title": "Node.js Development",
-        "link": "/node-development-company",
+        "link": "/node-development",
         "description": "Creating lightweight and efficient web servers and backend APIs using Node.js runtime environment, facilitating real-time data exchange, scalability, and versatility for web applications."
       },
       {
         "title": "Vue.js Development",
-        "link": "/vue-development-company",
+        "link": "/vue-development",
         "description": "Building progressive and reactive web applications with Vue.js framework, offering simplicity, flexibility, and performance for front-end development projects of any scale."
       },
       {
         "title": "Python Development",
-        "link": "/python-development-company",
+        "link": "/python-development",
         "description": "Harnessing the versatility and simplicity of Python programming language for web development, including Django and Flask frameworks, to create secure, scalable, and maintainable web applications."
       },
       {
         "title": "WordPress Development",
-        "link": "/wordpress-development-company",
+        "link": "/wordpress-development",
         "description": "Customizing and extending WordPress CMS platform to create bespoke websites, blogs, and e-commerce stores with intuitive content management, flexibility, and scalability."
       }
     ],
@@ -1156,53 +1175,56 @@
     "getInTouch": "Ready to transform your online presence with expert web development solutions? Contact us today to schedule a consultation and discover how KriraAI can help you create custom web solutions that drive engagement and business growth."
   },
   {
-    "id": "custom-software-company",
+    "id": "custom-software-development-company",
     "category": "Custom Software Development",
-    "title": "Custom Software Development",
-    "subtitle": "Innovative Custom Software Solutions",
-    "description": "Welcome to KriraAI, your trusted partner for innovative Custom Software Development solutions. In today's fast-paced business environment, off-the-shelf software solutions may not always meet your unique business needs and requirements. At KriraAI, we specialize in developing tailor-made software solutions that address your specific challenges, streamline your processes, and drive business growth.",
+    "head":"Custom Software Development Services for your business and startups",
+    "title": "Custom Software Development Services",
+    "subtitle": "Custom Solutions for Your Business Needs",
+    "metaTitle": "",
+    "metaDescription": "",
+    "description": "Explore KriraAI's custom software development services designed to enhance business efficiency and growth. From CRM to ERP and BI solutions, discover how we can optimize your operations.",
     "image": "/images/service/custom_dev.svg",
     "serviceDescription": "At KriraAI, we take a client-centric approach to Custom Software Development, focusing on understanding your business objectives, workflows, and pain points to deliver solutions that align with your goals and drive tangible results. Our team of experienced developers, engineers, and project managers collaborate closely with you throughout the development process to ensure that your custom software solution meets and exceeds your expectations.",
     "ourWork": "category=Saas",
     "details": [
       {
         "title": "Desktop Software Development",
-        "link": "/desktop-app-company",
+        "link": "/desktop-app",
         "description": "Building robust and scalable desktop applications tailored to your business needs, whether it's for internal use, customer-facing applications, or specialized industry solutions."
       },
       {
         "title": "Customer Relationship Management (CRM) Software",
-        "link": "/customer-relationship-management-company",
+        "link": "/customer-relationship-management",
         "description": "Developing custom CRM solutions to manage customer interactions, streamline sales and marketing processes, and enhance customer satisfaction and loyalty."
       },
       {
         "title": "Inventory Management Software Development",
-        "link": "/inventory-management-company",
+        "link": "/inventory-management",
         "description": "Creating customized inventory management systems to track and manage inventory levels, orders, shipments, and supply chain operations efficiently and accurately."
       },
       {
         "title": "Accounting Software Development",
-        "link": "/accounting-company",
+        "link": "/accounting",
         "description": "Designing bespoke accounting software solutions to automate financial processes, manage budgets, track expenses, and generate reports for improved financial management and decision-making."
       },
       {
         "title": "Enterprise Resource Planning (ERP) Software",
-        "link": "/enterprise-resource-planning-company",
+        "link": "/enterprise-resource-planning",
         "description": "Developing comprehensive ERP systems to integrate and streamline business processes across departments, including finance, human resources, supply chain, and manufacturing."
       },
       {
         "title": "Human Resource Management (HRM) Software",
-        "link": "/human-resource-management-company",
+        "link": "/human-resource-management",
         "description": "Building customized HRM solutions to streamline HR processes, including recruitment, onboarding, performance management, training, and employee engagement."
       },
       {
         "title": "Business Intelligence (BI) Software",
-        "link": "/business-intelligence-company",
+        "link": "/business-intelligence",
         "description": "Designing custom BI solutions to analyze and visualize data, gain actionable insights, and make informed business decisions to drive growth and competitive advantage."
       },
       {
         "title": "Supply Chain Management (SCM) Software",
-        "link": "/supply-chain-management-company",
+        "link": "/supply-chain-management",
         "description": "Developing tailored SCM solutions to optimize supply chain operations, including inventory management, procurement, logistics, and demand forecasting, for enhanced efficiency and cost savings."
       }
     ],
@@ -1339,9 +1361,12 @@
   },
   {
     "id": "tech-consultancy-company",
-    "title": "Tech Consultancy", 
-    "subtitle": "Strategic Guidance and Expertise for Digital Transformation",
-    "description": "Welcome to KriraAI's Tech Consultancy services, where we provide strategic guidance and expertise to help businesses navigate the ever-evolving technology landscape and achieve their digital transformation goals. With our deep domain knowledge, industry insights, and technical proficiency, we empower organizations to make informed decisions, leverage cutting-edge technologies, and drive innovation and growth.",
+    "head":"Tech Consultancy Services | Strategic IT Consulting",
+    "title": "Expert Tech Consultancy Services",
+    "subtitle": "IT and AI Consultancy Services for Startups and Business",
+    "metaTitle": "",
+    "metaDescription": "",
+    "description": "Discover KriraAI's expert tech consultancy services tailored for digital transformation. From strategy to implementation, our IT consulting helps businesses thrive. Contact us today!",
     "image": "/images/service/tech_consult.svg",
     "serviceDescription": "At KriraAI, we believe in taking a holistic and collaborative approach to tech consultancy, working closely with our clients to understand their business goals, challenges, and constraints. Whether you're looking to adopt emerging technologies, optimize existing IT infrastructure, improve operational efficiency, or enhance customer experience, we offer tailored solutions and actionable recommendations that align with your strategic objectives and deliver tangible business value.",
     "ourWork": "category=all",
@@ -1501,4 +1526,3 @@
     }
   }
 ]
-

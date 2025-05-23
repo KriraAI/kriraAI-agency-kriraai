@@ -19,7 +19,7 @@ const FAQ = ({props}: {props:FAQProps[]}) => {
                 <h2 className="md:text-xl xs:text-md font-medium">
                   {faq.question}
                 </h2>
-                <span className="relative size-5 shrink-0">
+                <span className="relative size-6 shrink-0">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     className="absolute inset-0 size-5 opacity-100 group-open:opacity-0"

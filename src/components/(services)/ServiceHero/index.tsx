@@ -19,7 +19,7 @@ const ServiceHero: React.FC<HeroSectionProps> = ({ title, subtitle, description,
       <div className="flex flex-col-reverse md:flex-row items-center justify-between space-y-8 md:space-y-0 md:space-x-8">
         <div className="w-full md:w-1/2 space-y-6 md:ml-20 md:space-y-8 mt-8 md:mt-0 text-center md:text-left">
           <div className="">
-            <TextGradientHead1 size="xxs:text-3xl xs:text-4xl md:pb-4 md:text-5xl" text={title + " Company"} />
+            <TextGradientHead1 size="xxs:text-3xl xs:text-4xl md:pb-4 md:text-4xl" text={title + " Company"} />
           </div>
           <div className="text-lg font-bold text-gray-700 dark:text-gray-300">
             <TypewriterEffect

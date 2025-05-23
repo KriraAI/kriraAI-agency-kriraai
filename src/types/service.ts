@@ -3,6 +3,8 @@ export type Service = {
   title: string;
   subtitle: string;
   description: string;
+  metaTitle?: string;
+  metaDescription?: string;
   image: string;
   serviceDescription: string;
   ourWork?: string;

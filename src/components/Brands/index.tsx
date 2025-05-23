@@ -33,16 +33,16 @@ const Brands = () => {
 
 
         <div className= "mt-40">        
-       <section className=" bottom-0 left-0 right-0 z-[-1] bg-[url(/images/video/shape.svg)] bg-cover bg-center">
+       <section className=" bottom-0 left-0 right-0 z-[-1] bg-[url(/images/video/shape.svg)] bg-cover background-size: cover; bg-center bg-white">
   <div className="max-w-7xl mx-auto text-center mt-10">
-    <h2 className="text-4xl sm:text-5xl font-extrabold leading-tight mb-4">
+    <h2 className="text-4xl sm:text-5xl font-extrabold leading-tight mb-4 text-black">
      KriraAI – Leading AI Development Company in India
     </h2>
-    <p className="text-lg sm:text-xl leading-relaxed mb-8">
+    <p className="text-lg sm:text-xl leading-relaxed mb-8 text-black">
       Welcome to KriraAI, a trusted AI development company delivering intelligent solutions for startups, enterprises, and global brands. As one of the best AI development companies in India,  We focus on creating customized AI software, integrating cutting-edge technologies like machine learning, deep learning, and generative AI to solve real-world problems.
 
     </p>
-     <p className="text-lg sm:text-xl leading-relaxed mb-8">
+     <p className="text-lg sm:text-xl leading-relaxed mb-8 text-black">
      KriraAI is the perfect AI development partner whether you need to scale innovation, improve customer experiences, or automate processes.
 
     </p>
