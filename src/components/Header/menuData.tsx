@@ -16,6 +16,7 @@ export const menuData: Menu[] = [
     submenu: serviceData.map((service, index) => ({
       id: service.id,
       title: service.title,
+        // description: detail.description,
       path: `/${service.id}`,
       newTab: false,
       submenu: service.details.map((detail, detailIndex) => ({
@@ -27,7 +28,7 @@ export const menuData: Menu[] = [
     }))
   },
   {
-    id: 2,
+    id: 2, 
     title: "About",
     path: "/about",
     newTab: false
@@ -85,13 +86,24 @@ export const mobileMenuData: Menu[] = [
       { id: 9, title: "Tech Consult ", path: "/tech-consultancy-company", newTab: false }
     ]
   },
+  
   {
     id: 2,
     title: "About",
     path: "/about",
     newTab: false
   },
-  {
+
+  // // check //
+  //  {
+  //   id: 2,
+  //   title: "Admin",
+  //   path: "/Admin",
+  //   newTab: false
+  // },
+  // // check //
+
+  { 
     id:6,
     title: "Career",
     path: "/career",
@@ -114,6 +126,7 @@ export const mobileMenuData: Menu[] = [
       { id: 10, title: "Healthcare ", path: "/industries/healthcare-solutions", newTab: false }
     ]
   }
+  
 
 ];
 

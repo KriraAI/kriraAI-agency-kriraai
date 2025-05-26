@@ -12,8 +12,8 @@ import { Metadata } from "next";
 
 
 export const metadata: Metadata = {
-  title: "Best AI Development Company in India | Krira AI",
-  description: "Krira AI is a Best AI development company in India offering cutting-edge generative AI development services. Let's build the future with AI together ."
+  title: "Best AI Development Company in India | KriraAI",
+  description: "Krira AI is a Best AI development company in India offering Advanced generative AI development services. Let's build the future with AI together ."
 };
 
 export default function Home() {
@@ -43,11 +43,11 @@ export default function Home() {
       answer: "The development of intelligent software that can evaluate data, recognize patterns, and make decisions is known as artificial intelligence (AI) development. It assists companies in increasing productivity, cutting expenses, and automating processes."
     },
     {
-      question: "Why should I choose Krira AI as my AI development company?",
+      question: "Why should I choose KriraAI as my AI development company?",
       answer: "Krira AI is recognized as a Generative AI development company in India, delivering custom AI solutions with proven success in machine learning, NLP, computer vision, and generative AI."
     },
     {
-      question: "What makes Krira AI one of the best AI development companies?",
+      question: "What makes KriraAI one of the best AI development companies?",
       answer: "We are among the top AI development companies for startups and businesses because we provide end-to-end AI development services, cutting-edge generative AI tools, and extensive expertise in the industry."
     },
     {
@@ -93,7 +93,6 @@ export default function Home() {
     </>
   );
 }
-
 
 
 
