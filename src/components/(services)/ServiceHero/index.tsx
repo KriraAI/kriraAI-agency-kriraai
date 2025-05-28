@@ -41,6 +41,29 @@ const ServiceHero: React.FC<HeroSectionProps> = ({ title, subtitle, description,
           <img src={image} alt={title} className="w-full max-w-4xl md:max-w-7xl" />
         </div>
       </div>
+
+    <div className="hidden">
+     <section className="bottom-0 left-0 right-0 z-[-1] bg-[url(/images/video/shape.svg)] bg-cover bg-center bg-white">
+       <div className="max-w-7xl mx-auto text-center mt-10">
+         <h2 className="text-4xl sm:text-5xl font-extrabold leading-tight mb-4 text-black">
+           Advancing Businesses Through Intelligent AI Development Solutions
+
+         </h2>
+         <p className="text-lg sm:text-xl leading-relaxed mb-8 text-black">
+          KriraAI delivers AI development services that drive business transformation. A highly professional technological team with deep knowledge in machine learning, natural language processing, and predictive analytics, enables clients to realize the full scope of artificial intelligence. Our approach is simple yet highly result-oriented. We nurture to be acclaimed as one of the best AI services in India. 
+
+         </p>
+         <p className="text-lg sm:text-xl leading-relaxed mb-8 text-black">
+           We have already worked with over 50 global organizations, introducing generative AI services that support growth and operational resilience. Our uniqueness is embedded in the very notion of quality and precision: that is, working with crystal clarity about the clients' needs to produce top-notch AI solutions. 
+
+         </p>
+          <p className="text-lg sm:text-xl leading-relaxed mb-8 text-black">
+          We have a team of highly skilled professionals working on AI solutions to generate the utmost impact. Our dedication to consistent performance and agile responsiveness places us at the forefront of AI service providers in India and in international markets. The inclusive client base at KriraAI depicts our uniform contribution to the AI industry and builds a faith among the new ones. 
+
+         </p>
+       </div>
+     </section>
+   </div>
     </div>
   );
 };

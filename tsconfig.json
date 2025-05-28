@@ -3,15 +3,18 @@
     "lib": [
       "dom",
       "dom.iterable",
-      "esnext"
+      "esnext",
+      
     ],
     "baseUrl": ".",
     //    "paths": {
     //			"@/*": ["./src/*"]
     //		},
+    
     "paths": {
       "@/*": [
-        "src/*"
+        "src/*",
+        
       ],
       "@/components/*": [
         "src/components/*"

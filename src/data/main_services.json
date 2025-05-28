@@ -3,10 +3,10 @@
     "id": "ai-services-company",
     "head": "Top AI Services & Solutions | AI Consulting & Development",
     "category": "AI Services",
-    "title": "Innovative AI Services for Business Success",
+    "title": " Trusted AI Service Providers In India",
     "metaTitle": "Top AI Development Services Company | Custom AI Solutions",
     "metaDescription": "Looking for expert AI development services? KriraAI offers custom AI solutions, generative AI, and scalable platforms. Top AI services provider in India.",
-    "subtitle": "Transform Your Business with Advanced AI Solutions: Machine Learning, NLP, Computer Vision, and More",
+    "subtitle": "Building a robust user base with innovative generative AI solution",
     "description": "Discover KriraAI's AI services, including machine learning, NLP, and computer vision, to drive innovation and business growth. Contact us for expert AI consulting today.",
     "image": "/images/service/ai_services.svg",
     "serviceDescription": "At KriraAI, we take a strategic approach to AI services, focusing on understanding your organization's unique needs, objectives, and constraints. Whether you're looking to enhance customer experience, optimize operations, or drive business growth, we work closely with you to develop tailored AI solutions that address your specific challenges and deliver measurable results.",
@@ -15,32 +15,32 @@
       {
         "title": "Machine Learning",
         "link": "/machine-learning-company",
-        "description": "Predictive Analytics: Developing machine learning models to analyze historical data, identify patterns, and make accurate predictions about future outcomes."
+        "description": "KriraAI builds bespoke ML models that have the potential to expose latent patterns and enhance predictions. The aim is to streamline workflows, maximize performance, and assist in strategy formulation, without guessing."
       },
       {
         "title": "Deep Learning",
         "link": "/deep-learning-company",
-        "description": "Image Recognition: Training deep neural networks to recognize objects, faces, and patterns in images and videos for applications such as security, healthcare, and retail."
+        "description": "Our deep learning specializations attempt to solve complex problems while exhibiting advanced human-like reasoning. Hence, these high-end models prove to be a boon, providing accuracy and agility to sift through heaps of dynamic data."
       },
       {
         "title": "Natural Language Processing (NLP)",
         "link": "/natural-language-processing-company",
-        "description": "Developing NLP models to understand and generate human-like text, enabling applications such as chatbots, sentiment analysis, and language translation."
+        "description": "KriraAI applies the NLP skill set to genuinely understand and generate human language. We improve search, analysis, and communication, making them more relevant and efficient for your business."
       },
       {
         "title": "Computer Vision",
         "link": "/computer-vision-company",
-        "description": "Object Detection and Tracking: Building computer vision systems to detect, classify, and track objects in real-time video streams for applications such as surveillance and autonomous vehicles."
+        "description": "We develop intelligent vision systems that accurately interpret visual data. These solutions enable real-time analysis and recognition, supporting applications in healthcare, security, and beyond."
       },
       {
         "title": "Chatbot Development",
         "link": "/chatbot-development-company",
-        "description": "Conversational AI: Designing and implementing chatbots that simulate natural conversations and assist users with tasks such as customer support, information retrieval, and transaction processing."
+        "description": "KriraAI develops chatbots that remain dynamic and engage users effectively. Solutions we offer automate interactions and maintain impeccable support, which ultimately enhance user experience and reduce operational hindrances."
       },
       {
         "title": "Data Science",
         "link": "/data-science-company",
-        "description": "Data Analysis: Applying statistical techniques and machine learning algorithms to analyze large datasets, extract insights, and drive data-driven decision-making."
+        "description": "Our data science services focus on generating meaningful, data-driven outcomes based on statistical advancements. We turn complex information into clear, and concise strategies that go with your organizational goals and challenges."
       }
     ],
     "projects": [
@@ -157,16 +157,44 @@
   ],
     "faq": [
       {
-        "question": "What AI services do you offer?",
-        "answer": "We offer a range of AI services including machine learning, deep learning, computer vision, chatbot development, and data science. Our solutions are tailored to meet your specific needs and drive measurable results."
+        "question": "Which industries does KriraAI work with?",
+        "answer": "Our services benefit companies operating in healthcare, finance, e-commerce, education, logistics, security sectors, and more. We make sure our AI development solutions can adjust to your industry’s needs."
       },
       {
-        "question": "How can AI benefit my business?",
-        "answer": "AI can help your business by automating processes, enhancing decision-making, improving customer experiences, and unlocking new opportunities. Our AI solutions are designed to deliver tangible results and drive business growth."
+        "question": "What approach does KriraAI take regarding data security and compliance?",
+        "answer": "We take data security and compliance very seriously. Our AI development process has strict procedures around data handling, is governed by applicable regulatory standards, and contains advanced security processes to ensure your confidential data is kept safe."
       },
       {
-        "question": "What is your approach to AI projects?",
-        "answer": "We take a strategic approach to AI projects, focusing on understanding your unique needs, objectives, and constraints. We work closely with you to develop tailored solutions that address your specific challenges and deliver measurable outcomes."
+        "question": "How long does it take to build an AI solution with KriraAI?",
+        "answer": "The duration to develop an AI solution varies according to the complexity and size of the project. We never cut any corners, we work to get to the bottom of the issue as fast as we can while maintaining accuracy."
+      },
+      {
+        "question": "Do we provide support and maintenance after deploying the solution?",
+        "answer": "Yes. We engage in a long-term relationship, and provide the support and maintenance necessary to maintain the efficiency of each AI solution until you find it satisfactory."
+      },
+      {
+        "question": "What process does KriraAI undergo to develop our AI solutions?",
+        "answer": "We begin by understanding your particular business problems, then put in strategic consultations and data health assessments to understand how we can get the greatest impact from the AI model we choose, and develop a solution that fits with your operational offering"
+      },
+      {
+        "question": " Can KriraAI develop and train any AI model to be integrated with current systems?",
+        "answer": "Of course. There are several ways through which any AI solution can be seamlessly integrated into your existing business system and provide you with full value, while providing minimal disruption."
+      },
+      {
+        "question": "What makes KriraAI stand out among other AI service providers in India?",
+        "answer": "Clients rely on us mainly because of our commitment to accuracy, strong performance and satisfaction. We put together our advanced technology with practical approaches to develop AI solutions that matter."
+      },
+      {
+        "question": "Do you serve small and medium-size businesses?",
+        "answer": "Yes. We offer the flexibility to scale from prototype, to small business solutions, to full blown enterprise-grade AI solutions. We tailor our approach to suit your budget and objectives."
+      },
+      {
+        "question": "How do I get access to KriraAI’s features?",
+        "answer": "t’s easy to begin. Let us know what you need and what your project aims to achieve. We will arrange a first consultation to plan a strategy and help you with further actions."
+      },
+      {
+        "question": " How much will KriraAI’s AI solutions cost?",
+        "answer": "Our rates are fully transparent and completely custom to the needs and size of your project. We deliver value-added results that will fit within your budget, and match your expectations as a qualifying startup or growth company."
       }
     ],
     "getInTouch": "Ready to harness the power of AI and transform your business? Contact us today to schedule a consultation and discover how KriraAI can help you leverage AI to drive innovation, automate processes, and unlock new opportunities."
@@ -1189,7 +1217,7 @@
     "details": [
       {
         "title": "Desktop Software Development",
-        "link": "/desktop-app",
+        "link": "/desktop-app-development",
         "description": "Building robust and scalable desktop applications tailored to your business needs, whether it's for internal use, customer-facing applications, or specialized industry solutions."
       },
       {

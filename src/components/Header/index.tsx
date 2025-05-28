@@ -1205,6 +1205,7 @@ import { Button } from '../ui/moving-border';
 import { LogoCircle, SmallLogo } from "@/components/AnimLogo/OtherAnimations";
 import { useIsMobile } from "@/hooks/useIsMobile";
 import { animated, useSpring } from "@react-spring/web";
+import { url } from 'inspector';
 
 
 // import ThemeToggle from './ThemeToggle';
@@ -1262,6 +1263,7 @@ const Header = () => {
     window.open(url, '_self');
     closeMenu();
   }
+
 
   const renderIndustriesSubmenu = useMemo(() => {
     const industries: Menu | undefined = menuData.find((item) => item.title === 'Industries');
@@ -1325,7 +1327,7 @@ const Header = () => {
               <div className="w-4/5">
                 {serviceData.find((category) => category.id === activeCategory)?.items.map((service, index) => (
                     <Link
-                        key={index} href={`service.name.toLowerCase().replace(/\s+/g, '-')}-company`} 
+                        key={index} href={`/${service.name.toLowerCase().replace(/\s+/g, '-')}-company`} 
                         onClick={()=>openItem(
                             `/${service.name.toLowerCase().replace(/\s+/g, '-')}-company`
                         )}

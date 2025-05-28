@@ -1,13 +1,13 @@
-[
-  {
-    "id": 1,
-    "title": "AI Services",
-    "link": "/ai-services-company",
-    "work": "category=AI+Services",
-    "items": [
-      {
+  [
+    {
+      "id": 1,
+      "title": "AI Services",
+      "link": "/ai-services-company",
+      "work": "category=AI+Services",
+      "items": [
+        {
         "name": "Data Science",
-        "description": " Use advanced statistical analysis and data science tools to extract insightful information from the data held by your business."
+        "description": "Use advanced statistical analysis and data science tools to extract insightful information from the data held by your business."
       },
       {
         "name": "Machine Learning",
@@ -19,7 +19,7 @@
       },
       {
         "name": "Natural Language Processing",
-        "description": " Create tools for chatbots, search engines, and other applications that can comprehend and process human language."
+        "description": "Create tools for chatbots, search engines, and other applications that can comprehend and process human language."
       },
       {
         "name": "Computer Vision",
@@ -32,208 +32,209 @@
     ],
     "image": "/images/service/ai_services.svg"
   },
-  {
-    "id": 2,
-    "title": "App Development",
-    "work": "category=Mobile+App+Development",
-    "link": "/mobile-app-development-company",
-    "items": [
-      {
-        "name": "Android Development",
-        "description": "Create scalable, high-performing Android apps that are tailored to all user experiences and different types of devices."
-      },
-      {
-        "name": "iOS Development",
-        "description": "Create slick, quick, and safe iOS applications that adhere to App Store guidelines and Apple's ecosystem.."
-      },
-      {
-        "name": "Flutter Development",
-        "description": "Create beautiful cross-platform mobile apps from a single codebase using Google’s Flutter framework."
-      },
-      {
-        "name": "React Native Development",
-        "description": " Use React Native to create affordable, native-performing mobile apps for iOS and Android."
-      }
-    ],
-    "image": "/images/service/mobile.svg"
-  },
-  {
-    "id": 3,
-    "title": "Web Development",
-    "work": "category=Web+Development",
-    "link": "/web-development-company",
-    "items": [
-      {
-        "name": "React Development",
-        "description": "Use React to create dynamic, scalable web applications with quick, interactive front-end interfaces."
-      },
-      {
-        "name": "Angular Development",
-        "description": " Use Angular to create enterprise-class web applications that are highly performant and modular."
-      },
-      {
-        "name": "Node Development",
-        "description": " Use Node.js to build scalable fast backend systems for modern web and mobile applications."
-      },
-      {
-        "name": "Vue Development",
-        "description": " Use Vue.js to create responsive and light-weight web applications that offer a seamless and flexible user experience."
-      },
-      {
-        "name": "Python Development",
-        "description": " Use scalable Python frameworks to create reliable web backends, APIs, and AI-powered systems."
-      },
-      {
-        "name": "WordPress Development",
-        "description": " Use unique WordPress themes and plugins to create responsive, SEO-optimized websites and blogs."
-      }
-    ],
-    "image": "/images/service/web_dev.svg"
-  },
-  {
-    "id": 4,
-    "title": "Data & Analytics",
-    "work": "category=all",
-    "link": "/data-analytics-company",
-    "items": [
-      {
-        "name": "Web Scraping",
-        "description": "Extract real-time data from websites for competitive intelligence, research, and automation."
-      },
-      {
-        "name": "Database Management",
-        "description": " Design, manage, and optimize databases for performance, security, and scalability."
-      },
-      {
-        "name": "Data Analysis",
-        "description": "Turn raw data into actionable insights with expert-level business intelligence and data visualization."
-      }
-    ],
-    "image": "/images/service/data_analysis.svg"
-  },
-  {
-    "id": 5,
-    "title": "UI/UX Design",
-    "work": "category=UI/UX+Design",
-    "link": "/ui-ux-design-company",
-    "items": [
-      {
-        "name": "UI Design",
-        "description": "Create visually attractive, contemporary, easily navigable, and conversion-oriented user interfaces."
-      },
-      {
-        "name": "UX Strategy",
-        "description": "Create user journeys that provide outstanding customer experiences and are in line with business objectives."
-      },
-      {
-        "name": "Prototype",
-        "description": "Create interactive prototypes to validate ideas and user flows before full-scale development."
-      },
-      {
-        "name": "Wireframe Design",
-        "description": "Visualize structure and layout with wireframes that map user flow and design clarity."
-      }
-    ],
-    "image": "/images/service/uiux.svg"
-  },
-  {
-    "id": 6,
-    "title": "Branding",
-    "work": "category=all",
-    "link": "/branding-company",
-    "items": [
-      {
-        "name": "Branding",
-        "description": "Craft a distinctive identity for your business through strategic brand design, positioning, and storytelling that resonates with your target audience."
-      },
-      {
-        "name": "Packaging Design",
-        "description": "Design visually compelling and functional packaging that enhances product appeal, communicates brand value, and drives consumer interest."
-      },
-      {
-        "name": "Motion Design",
-        "description": "Bring stories to life with engaging motion graphics and animations for explainer videos, product demos, and brand storytelling."
-      },
-      {
-        "name": "Social Media Design",
-        "description": "Create scroll-stopping visuals for all major social media platforms to increase engagement, brand recall, and conversion."
-      },
-      {
-        "name": "Promotion Banner",
-        "description": "Design high-converting promotional banners for web and digital marketing campaigns, optimized for performance and visibility."
-      }
-    ],
-    "image": "/images/service/branding.svg"
-  },
-  {
-    "id": 7,
-    "title": "Custom Software",
-    "work": "category=Saas",
-    "link": "/custom-software-development-company",
-    "items": [
-      {
-        "name": "Desktop App",
-        "description": " Build powerful, standalone desktop applications tailored for performance, reliability, and offline capabilities across platforms."
-      },
-      {
-        "name": "Customer Relationship Management",
-        "description": " Develop CRM systems that streamline customer interactions, improve satisfaction, and boost sales efficiency"
-      },
-      {
-        "name": "Inventory management",
-        "description": "Create robust inventory management solutions to track stock levels, manage supply chains, and optimize warehouse operations."
-      },
-      {
-        "name": "Accounting",
-        "description": "Design user-friendly accounting software for automated financial reporting, invoicing, and tax compliance."
-      },
-      {
-        "name": "Enterprise Resource Planning",
-        "description": "Develop scalable ERP systems to integrate core business processes including finance, operations, HR, and supply chain."
-      },
-      {
-        "name": "Human Resource Management",
-        "description": " Build HRM solutions to manage recruitment, payroll, attendance, and employee engagement seamlessly."
-      },
-      {
-        "name": "Business Intelligence",
-        "description": " Create BI tools that convert data into actionable insights through dashboards, predictive analytics, and reporting"
-      },
-      {
-        "name": "Supply Chain Management",
-        "description": "Logistics aur supply chain software."
-      }
-    ],
-    "image": "/images/service/custom_dev.svg"
-  },
-  {
-    "id": 8,
-    "title": "Cloud Services",
-    "work": "category=all",
-    "link": "/cloud-services-company",
-    "items": [
-      {
-        "name": "DevOps",
-        "description": "Implement DevOps solutions that automate deployment, enhance collaboration, and accelerate development cycles in cloud environments."
-      },
-      {
-        "name": "MLOps",
-        "description": " Operationalize machine learning workflows with MLOps for scalable deployment, monitoring, and lifecycle management of AI models."
-      }
-    ],
-    "image": "/images/service/cloud_service.svg"
-  },
-  {
-    "id": 9,
-    "title": "Tech Consultancy",
-    "work": "category=all",
-    "link": "/tech-consultancy-company",
-    "items": [
-      {
-        "name": "Tech Consultancy",
-        "description": "Provide strategic technology consulting to help businesses choose the right tech stack, modernize infrastructure, and achieve digital transformation"
-      }
-    ],
-    "image": "/images/service/tech_consult.svg"
-  }
-]
+
+    {
+      "id": 2,
+      "title": "App Development",
+      "work": "category=Mobile+App+Development",
+      "link": "/mobile-app-development-company",
+      "items": [
+        {
+          "name": "Android Development",
+          "description": "Create scalable, high-performing Android apps that are tailored to all user experiences and different types of devices."
+        },
+        {
+          "name": "iOS Development",
+          "description": "Create slick, quick, and safe iOS applications that adhere to App Store guidelines and Apple's ecosystem.."
+        },
+        {
+          "name": "Flutter Development",
+          "description": "Create beautiful cross-platform mobile apps from a single codebase using Google’s Flutter framework."
+        },
+        {
+          "name": "React Native Development",
+          "description": " Use React Native to create affordable, native-performing mobile apps for iOS and Android."
+        }
+      ],
+      "image": "/images/service/mobile.svg"
+    },
+    {
+      "id": 3,
+      "title": "Web Development",
+      "work": "category=Web+Development",
+      "link": "/web-development-company",
+      "items": [
+        {
+          "name": "React Development",
+          "description": "Use React to create dynamic, scalable web applications with quick, interactive front-end interfaces."
+        },
+        {
+          "name": "Angular Development",
+          "description": " Use Angular to create enterprise-class web applications that are highly performant and modular."
+        },
+        {
+          "name": "Node Development",
+          "description": " Use Node.js to build scalable fast backend systems for modern web and mobile applications."
+        },
+        {
+          "name": "Vue Development",
+          "description": " Use Vue.js to create responsive and light-weight web applications that offer a seamless and flexible user experience."
+        },
+        {
+          "name": "Python Development",
+          "description": " Use scalable Python frameworks to create reliable web backends, APIs, and AI-powered systems."
+        },
+        {
+          "name": "WordPress Development",
+          "description": " Use unique WordPress themes and plugins to create responsive, SEO-optimized websites and blogs."
+        }
+      ],
+      "image": "/images/service/web_dev.svg"
+    },
+    {
+      "id": 4,
+      "title": "Data & Analytics",
+      "work": "category=all",
+      "link": "/data-analytics-company",
+      "items": [
+        {
+          "name": "Web Scraping",
+          "description": "Extract real-time data from websites for competitive intelligence, research, and automation."
+        },
+        {
+          "name": "Database Management",
+          "description": " Design, manage, and optimize databases for performance, security, and scalability."
+        },
+        {
+          "name": "Data Analysis",
+          "description": "Turn raw data into actionable insights with expert-level business intelligence and data visualization."
+        }
+      ],
+      "image": "/images/service/data_analysis.svg"
+    },
+    {
+      "id": 5,
+      "title": "UI/UX Design",
+      "work": "category=UI/UX+Design",
+      "link": "/ui-ux-design-company",
+      "items": [
+        {
+          "name": "UI Design",
+          "description": "Create visually attractive, contemporary, easily navigable, and conversion-oriented user interfaces."
+        },
+        {
+          "name": "UX Strategy",
+          "description": "Create user journeys that provide outstanding customer experiences and are in line with business objectives."
+        },
+        {
+          "name": "Prototype",
+          "description": "Create interactive prototypes to validate ideas and user flows before full-scale development."
+        },
+        {
+          "name": "Wireframe Design",
+          "description": "Visualize structure and layout with wireframes that map user flow and design clarity."
+        }
+      ],
+      "image": "/images/service/uiux.svg"
+    },
+    {
+      "id": 6,
+      "title": "Branding",
+      "work": "category=all",
+      "link": "/branding-company",
+      "items": [
+        {
+          "name": "Branding",
+          "description": "Craft a distinctive identity for your business through strategic brand design, positioning, and storytelling that resonates with your target audience."
+        },
+        {
+          "name": "Packaging Design",
+          "description": "Design visually compelling and functional packaging that enhances product appeal, communicates brand value, and drives consumer interest."
+        },
+        {
+          "name": "Motion Design",
+          "description": "Bring stories to life with engaging motion graphics and animations for explainer videos, product demos, and brand storytelling."
+        },
+        {
+          "name": "Social Media Design",
+          "description": "Create scroll-stopping visuals for all major social media platforms to increase engagement, brand recall, and conversion."
+        },
+        {
+          "name": "Promotion Banner",
+          "description": "Design high-converting promotional banners for web and digital marketing campaigns, optimized for performance and visibility."
+        }
+      ],
+      "image": "/images/service/branding.svg"
+    },
+    {
+      "id": 7,
+      "title": "Custom Software",
+      "work": "category=Saas",
+      "link": "/custom-software-development-company",
+      "items": [
+        {
+          "name": "Desktop App",
+          "description": " Build powerful, standalone desktop applications tailored for performance, reliability, and offline capabilities across platforms."
+        },
+        {
+          "name": "Customer Relationship Management",
+          "description": " Develop CRM systems that streamline customer interactions, improve satisfaction, and boost sales efficiency"
+        },
+        {
+          "name": "Inventory management",
+          "description": "Create robust inventory management solutions to track stock levels, manage supply chains, and optimize warehouse operations."
+        },
+        {
+          "name": "Accounting",
+          "description": "Design user-friendly accounting software for automated financial reporting, invoicing, and tax compliance."
+        },
+        {
+          "name": "Enterprise Resource Planning",
+          "description": "Develop scalable ERP systems to integrate core business processes including finance, operations, HR, and supply chain."
+        },
+        {
+          "name": "Human Resource Management",
+          "description": " Build HRM solutions to manage recruitment, payroll, attendance, and employee engagement seamlessly."
+        },
+        {
+          "name": "Business Intelligence",
+          "description": " Create BI tools that convert data into actionable insights through dashboards, predictive analytics, and reporting"
+        },
+        {
+          "name": "Supply Chain Management",
+          "description": "Logistics aur supply chain software."
+        }
+      ],
+      "image": "/images/service/custom_dev.svg"
+    },
+    {
+      "id": 8,
+      "title": "Cloud Services",
+      "work": "category=all",
+      "link": "/cloud-services-company",
+      "items": [
+        {
+          "name": "DevOps",
+          "description": "Implement DevOps solutions that automate deployment, enhance collaboration, and accelerate development cycles in cloud environments."
+        },
+        {
+          "name": "MLOps",
+          "description": " Operationalize machine learning workflows with MLOps for scalable deployment, monitoring, and lifecycle management of AI models."
+        }
+      ],
+      "image": "/images/service/cloud_service.svg"
+    },
+    {
+      "id": 9,
+      "title": "Tech Consultancy",
+      "work": "category=all",
+      "link": "/tech-consultancy-company",
+      "items": [
+        {
+          "name": "Tech Consultancy",
+          "description": "Provide strategic technology consulting to help businesses choose the right tech stack, modernize infrastructure, and achieve digital transformation"
+        }
+      ],
+      "image": "/images/service/tech_consult.svg"
+    }
+  ]

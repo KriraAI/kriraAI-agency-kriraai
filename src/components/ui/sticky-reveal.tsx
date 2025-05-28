@@ -51,6 +51,8 @@ const StickyScroll = ({
       className="relative h-[30rem] bg-gradient-to-b from-slate-300 dark:from-dark rounded-2xl to-white dark:to-total-black  duration-300 transition-all overflow-y-scroll flex justify-evenly md:space-x-20 lg:space-x-20 px-1"
       ref={ref}
     >
+
+      
       <div className="relative items-start">
         <div className="max-w-fit pt-20 px-10">
           {content.map((item, index) => (
@@ -90,6 +92,7 @@ const StickyScroll = ({
           </motion.div>
         ))}
       </div>
+      
     </motion.div>
   );
 };

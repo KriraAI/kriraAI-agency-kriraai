@@ -111,7 +111,7 @@ const Brands = () => {
           </div>
         </div>
 
-           
+{/*            
            <div className="hidden">
      <section className="bottom-0 left-0 right-0 z-[-1] bg-[url(/images/video/shape.svg)] bg-cover bg-center bg-white">
        <div className="max-w-7xl mx-auto text-center mt-10">
@@ -126,9 +126,9 @@ const Brands = () => {
          </p>
        </div>
      </section>
-   </div>
+   </div> */}
 
-   <div className="hidden">
+   {/* <div className="hidden">
     <section className="bottom-0 left-0 right-0 bg-cover bg-center bg-white">
       <div className="max-w-7xl mx-auto text-center mt-10">
         <h1 className="text-4xl sm:text-5xl font-extrabold leading-tight mb-4 text-black">Empowering Startups and Businesses with Complete Tech Solutions</h1>
@@ -144,7 +144,7 @@ const Brands = () => {
         <p className="text-lg sm:text-xl leading-relaxed mb-8 text-black">Trust KriraAI to turn your ideas into actionable solutions, backed by a team that combines deep technical expertise with strategic insight to keep your business competitive in today’s fast-evolving digital landscape.</p>
       </div>
     </section>
-   </div>
+   </div> */}
    
 
 
